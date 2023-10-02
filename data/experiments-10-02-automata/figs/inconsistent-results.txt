@@ -1,0 +1,2 @@
+input                                                                          	brics  	fado  	(j)alib  	mata  	awali  	(py)alib  	vata  	automata  	(py)mata  	mata-old  	  number
+/home/experiments/nfa-bench/benchmarks/presburger/complement/tptp/ARI572_1.mata	false  	true  	true     	true  	true   	true      	true  	false     	true      	true      	       4
