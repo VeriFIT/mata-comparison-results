@@ -1,0 +1,320 @@
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-rhs.mata
+execute;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-rhs.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-rhs.mata
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-rhs.mata;real 23.54###user 9.92###sys 13.01
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-1000-rhs.mata;real 31.74###user 17.31###sys 14.00
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-rhs.mata;real 41.50###user 12.86###sys 27.57
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-50-rhs.mata;real 48.45###user 17.48###sys 29.77
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-rhs.mata;real 55.86###user 17.61###sys 36.92
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-100-rhs.mata;0;mataparsing: 0.050759###mataminterm: 0.015257;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-rhs.mata;real 49.47###user 17.19###sys 30.95
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-150-rhs.mata;real 50.72###user 16.41###sys 32.88
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-rhs.mata;real 44.06###user 15.23###sys 27.85
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-200-rhs.mata;0;mataparsing: 0.098821###mataminterm: 0.027602;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-rhs.mata;real 51.67###user 16.58###sys 33.98
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-250-rhs.mata;0;mataparsing: 0.124088###mataminterm: 0.03264;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-rhs.mata;real 54.51###user 20.30###sys 32.95
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-300-rhs.mata;real 54.34###user 16.61###sys 36.31
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-rhs.mata;real 53.00###user 16.75###sys 35.05
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-rhs.mata;real 35.58###user 15.28###sys 19.60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-350-rhs.mata;real 59.39###user 17.24###sys 40.56
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-400-rhs.mata;real 56.67###user 15.75###sys 39.21
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-rhs.mata;real 43.90###user 15.54###sys 27.43
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-450-rhs.mata;0;mataparsing: 0.224672###mataminterm: 0.058892;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-rhs.mata;real 46.30###user 14.66###sys 30.38
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-500-rhs.mata;0;mataparsing: 0.144003###mataminterm: 0.04159;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-rhs.mata;real 45.72###user 19.32###sys 25.51
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-550-rhs.mata;0;mataparsing: 0.275999###mataminterm: 0.073129;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-rhs.mata;real 54.94###user 16.77###sys 36.91
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-600-rhs.mata;real 57.91###user 17.73###sys 38.66
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-rhs.mata;real 50.96###user 17.16###sys 32.68
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-650-rhs.mata;0;mataparsing: 0.338047###mataminterm: 0.085743;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-rhs.mata;real 59.81###user 17.52###sys 40.69
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-700-rhs.mata;0;mataparsing: 0.408004###mataminterm: 0.096112###reduce: 0.258524;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-rhs.mata;0;mataparsing: 0.562304###mataminterm: 0.096785;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-750-rhs.mata;real 59.52###user 17.87###sys 40.19
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-rhs.mata;real 56.66###user 19.34###sys 36.05
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-800-rhs.mata;0;mataparsing: 0.580641###mataminterm: 0.114129;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-rhs.mata;real 48.32###user 20.21###sys 27.15
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-850-rhs.mata;0;mataparsing: 0.284278###mataminterm: 0.073615;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-rhs.mata;0;mataparsing: 0.676597###mataminterm: 0.118789;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-900-rhs.mata;0;mataparsing: 0.693092###mataminterm: 0.118295###reduce: 0.458116;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-rhs.mata;0;mataparsing: 0.53983###mataminterm: 0.118382;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_sat-950-rhs.mata;0;mataparsing: 0.476639###mataminterm: 0.120707###reduce: 0.527491;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-rhs.mata;0;mataparsing: 0.048738###mataminterm: 0.015209;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-100-rhs.mata;0;mataparsing: 0.05042###mataminterm: 0.017464###reduce: 0.003421;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-rhs.mata;0;mataparsing: 0.576032###mataminterm: 0.126398;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-1000-rhs.mata;0;mataparsing: 0.497922###mataminterm: 0.122676###reduce: 0.565651;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-rhs.mata;0;mataparsing: 0.075791###mataminterm: 0.020897;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-150-rhs.mata;0;mataparsing: 0.066223###mataminterm: 0.017881###reduce: 0.005878;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-rhs.mata;0;mataparsing: 0.097645###mataminterm: 0.024376;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-200-rhs.mata;0;mataparsing: 0.089386###mataminterm: 0.0227###reduce: 0.010189;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-rhs.mata;0;mataparsing: 0.125779###mataminterm: 0.032656;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-250-rhs.mata;0;mataparsing: 0.125237###mataminterm: 0.030508###reduce: 0.018219;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-rhs.mata;0;mataparsing: 0.147243###mataminterm: 0.03794;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-300-rhs.mata;0;mataparsing: 0.150036###mataminterm: 0.037481###reduce: 0.027142;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-rhs.mata;0;mataparsing: 0.171879###mataminterm: 0.041854;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-350-rhs.mata;0;mataparsing: 0.09904###mataminterm: 0.028327###reduce: 0.026044;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-rhs.mata;0;mataparsing: 0.193341###mataminterm: 0.046755;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-400-rhs.mata;0;mataparsing: 0.187136###mataminterm: 0.044769###reduce: 0.051667;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-rhs.mata;0;mataparsing: 0.220619###mataminterm: 0.051452;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-450-rhs.mata;0;mataparsing: 0.216167###mataminterm: 0.050488###reduce: 0.07011;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-rhs.mata;0;mataparsing: 0.02223###mataminterm: 0.009074;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-50-rhs.mata;0;mataparsing: 0.022154###mataminterm: 0.009246###reduce: 0.000955;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-rhs.mata;0;mataparsing: 0.252602###mataminterm: 0.05725;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-500-rhs.mata;0;mataparsing: 0.238925###mataminterm: 0.057314###reduce: 0.092934;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-rhs.mata;0;mataparsing: 0.262724###mataminterm: 0.063763;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-550-rhs.mata;0;mataparsing: 0.159336###mataminterm: 0.042099###reduce: 0.083186;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-rhs.mata;0;mataparsing: 0.291364###mataminterm: 0.069777;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-600-rhs.mata;0;mataparsing: 0.173198###mataminterm: 0.044641###reduce: 0.097496;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-rhs.mata;0;mataparsing: 0.307597###mataminterm: 0.071674;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-650-rhs.mata;0;mataparsing: 0.312677###mataminterm: 0.073266###reduce: 0.171893;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-rhs.mata;0;mataparsing: 0.32902###mataminterm: 0.07796;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-700-rhs.mata;0;mataparsing: 0.322029###mataminterm: 0.073545###reduce: 0.197569;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-rhs.mata;0;mataparsing: 0.350819###mataminterm: 0.082198;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-750-rhs.mata;0;mataparsing: 0.218633###mataminterm: 0.06009###reduce: 0.181429;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-rhs.mata;0;mataparsing: 0.223404###mataminterm: 0.060312;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-800-rhs.mata;0;mataparsing: 0.222764###mataminterm: 0.061106###reduce: 0.203824;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-rhs.mata;0;mataparsing: 0.387037###mataminterm: 0.090999;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-850-rhs.mata;0;mataparsing: 0.391486###mataminterm: 0.09291###reduce: 0.326422;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-rhs.mata;0;mataparsing: 0.408712###mataminterm: 0.098416;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-900-rhs.mata;0;mataparsing: 0.408342###mataminterm: 0.098098###reduce: 0.366506;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-rhs.mata;real 31.59###user 20.22###sys 10.85
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-rhs.mata;0;mataparsing: 0.431317###mataminterm: 0.099493;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-100-rhs.mata;real 47.62###user 23.96###sys 22.56
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/diff_unsat-950-rhs.mata;0;mataparsing: 0.439665###mataminterm: 0.102628###reduce: 0.421272;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-rhs.mata;real 41.69###user 19.99###sys 20.73
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-1000-rhs.mata;real 49.05###user 20.00###sys 28.00
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-rhs.mata;real 39.63###user 15.33###sys 23.43
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-150-rhs.mata;real 53.65###user 16.58###sys 35.67
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-rhs.mata;real 49.76###user 16.92###sys 31.81
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-200-rhs.mata;real 57.17###user 17.12###sys 38.64
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-rhs.mata;real 58.69###user 15.63###sys 41.54
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-250-rhs.mata;0;mataparsing: 0.070928###mataminterm: 0.02173###reduce: 0.012266;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-rhs.mata;real 51.38###user 17.50###sys 32.72
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-300-rhs.mata;0;mataparsing: 0.153984###mataminterm: 0.043465;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-rhs.mata;real 55.98###user 21.45###sys 33.28
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-350-rhs.mata;real 56.51###user 17.36###sys 37.84
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-rhs.mata;real 56.14###user 17.88###sys 36.82
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-400-rhs.mata;real 56.43###user 16.69###sys 38.41
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-rhs.mata;real 55.36###user 18.17###sys 35.66
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-450-rhs.mata;0;mataparsing: 0.21536###mataminterm: 0.052549###reduce: 0.079661;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-rhs.mata;real 58.00###user 17.78###sys 38.89
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-50-rhs.mata;real 56.97###user 18.75###sys 36.94
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-rhs.mata;real 58.37###user 17.98###sys 39.01
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-500-rhs.mata;real 57.33###user 18.16###sys 37.74
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-rhs.mata;real 57.47###user 16.94###sys 39.06
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-rhs.mata;real 50.09###user 16.72###sys 32.18
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-550-rhs.mata;0;mataparsing: 0.159334###mataminterm: 0.048053###reduce: 0.087358;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-600-rhs.mata;real 59.01###user 18.97###sys 38.66
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-rhs.mata;real 47.83###user 16.43###sys 30.32
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-650-rhs.mata;0;mataparsing: 0.444098###mataminterm: 0.09614;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-rhs.mata;real 54.55###user 19.92###sys 33.40
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-700-rhs.mata;real 56.89###user 18.11###sys 37.37
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-rhs.mata;0;mataparsing: 0.367763###mataminterm: 0.090983;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-750-rhs.mata;real 57.40###user 18.83###sys 37.20
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-rhs.mata;real 58.11###user 18.65###sys 38.08
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-800-rhs.mata;0;mataparsing: 0.543475###mataminterm: 0.102346###reduce: 0.355733;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-rhs.mata;real 58.85###user 21.31###sys 36.23
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-850-rhs.mata;0;mataparsing: 0.680038###mataminterm: 0.110214###reduce: 0.423022;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-rhs.mata;0;mataparsing: 0.664133###mataminterm: 0.122951;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-900-rhs.mata;0;mataparsing: 0.689989###mataminterm: 0.119898###reduce: 0.480943;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-rhs.mata;0;mataparsing: 0.58748###mataminterm: 0.124102;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_sat-950-rhs.mata;0;mataparsing: 0.717622###mataminterm: 0.119433###reduce: 0.503948;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-rhs.mata;0;mataparsing: 0.028644###mataminterm: 0.010111;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-rhs.mata;real 50.74###user 19.87###sys 29.91
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-100-rhs.mata;0;mataparsing: 0.076451###mataminterm: 0.027461###reduce: 0.003138;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-rhs.mata;real 46.56###user 17.11###sys 28.48
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-1000-rhs.mata;0;mataparsing: 0.28281###mataminterm: 0.078207###reduce: 0.359449;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-150-rhs.mata;real 56.15###user 17.75###sys 36.96
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-rhs.mata;real 57.14###user 19.94###sys 35.89
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-200-rhs.mata;real 55.01###user 17.81###sys 35.87
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-rhs.mata;0;mataparsing: 0.125868###mataminterm: 0.033154;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-250-rhs.mata;real 56.02###user 17.74###sys 36.98
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-rhs.mata;0;mataparsing: 0.181552###mataminterm: 0.05053;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-300-rhs.mata;real 57.45###user 16.81###sys 39.08
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-rhs.mata;real 57.71###user 18.16###sys 38.06
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-350-rhs.mata;real 59.52###user 17.05###sys 40.96
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-rhs.mata;real 59.46###user 18.61###sys 39.27
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-400-rhs.mata;0;mataparsing: 0.116427###mataminterm: 0.033355###reduce: 0.039559;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-rhs.mata;0;mataparsing: 0.345278###mataminterm: 0.060581;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-rhs.mata;real 40.15###user 15.37###sys 23.78
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-450-rhs.mata;0;mataparsing: 0.371842###mataminterm: 0.06506###reduce: 0.092133;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-50-rhs.mata;0;mataparsing: 0.01301###mataminterm: 0.006469;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-rhs.mata;real 55.49###user 18.25###sys 35.69
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-500-rhs.mata;real 54.17###user 17.75###sys 34.92
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-rhs.mata;real 45.43###user 18.21###sys 26.20
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-rhs.mata;0;mataparsing: 0.331445###mataminterm: 0.081792;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-550-rhs.mata;0;mataparsing: 0.226362###mataminterm: 0.05086###reduce: 0.089475;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-rhs.mata;real 46.56###user 20.11###sys 25.42
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-600-rhs.mata;0;mataparsing: 0.297619###mataminterm: 0.088659###reduce: 0.210888;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-rhs.mata;real 42.97###user 19.16###sys 23.00
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-650-rhs.mata;0;mataparsing: 0.460166###mataminterm: 0.083066###reduce: 0.218057;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-700-rhs.mata;real 56.30###user 18.30###sys 36.77
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-rhs.mata;real 56.97###user 17.46###sys 38.23
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-750-rhs.mata;real 56.59###user 19.81###sys 35.48
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-rhs.mata;0;mataparsing: 0.224223###mataminterm: 0.061979;;60
+error;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-rhs.mata;real 37.55###user 17.59###sys 19.38
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-800-rhs.mata;0;mataparsing: 0.406176###mataminterm: 0.10493###reduce: 0.354173;;60
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-850-rhs.mata;0;mataparsing: 0.608336###mataminterm: 0.107462;;60
+error;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-rhs.mata;real 36.96###user 18.70###sys 17.74
+timeout;mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-rhs.mata;0;mataparsing: 0.263537###mataminterm: 0.079143;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-900-rhs.mata;0;mataparsing: 0.604692###mataminterm: 0.122047###reduce: 0.483029;;60
+timeout;mata-sim;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-lhs.mata;/home/experiments/nfa-bench/benchmarks/bool_comb/cox/inter_unsat-950-rhs.mata;0;mataparsing: 0.481684###mataminterm: 0.126113###reduce: 0.58374;;60
