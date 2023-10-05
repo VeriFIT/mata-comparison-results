@@ -1,0 +1,4 @@
+input                                                                                   	automata  	vata  	mata-old  	awali  	mona  	(j)alib  	fado  	mata-sim  	(py)mata  	(py)alib  	brics  	mata  	  number
+/home/experiments/nfa-bench/benchmarks/presburger-explicit/complement/tptp/ARI572_1.mata	false     	true  	true      	true   	-     	true     	true  	true      	true      	true      	false  	true  	       4
+/home/experiments/nfa-bench/benchmarks/presburger/complement/tptp/ARI572_1.mata         	true      	true  	true      	true   	false 	true     	true  	true      	true      	true      	false  	true  	       3
+/home/experiments/nfa-bench/benchmarks/presburger/complement/tptp/NUM865_1.mata         	true      	true  	true      	true   	ERR   	true     	true  	true      	true      	true      	false  	true  	       1
