@@ -4,7 +4,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-compl;mata-s
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06210.mata;0.02; 0.008808; 0.01676; 0.000955; 7e-05; 6.7e-05; false; 0.028764
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06234.mata;0.07; 0.020496; 0.047366; 0.001056; 8.9e-05; 3.2e-05; false; 0.072961
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06244.mata;0.05; 0.007594; 0.040617; 0.001482; 0.000107; 5.7e-05; false; 0.051519
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06264.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06295.mata;0.06; 0.022329; 0.03739; 0.001341; 0.000152; 5.5e-05; false; 0.064562
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06296.mata;0.17; 0.054325; 0.100652; 0.009157; 0.000471; 9e-05; false; 0.172988
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance06368.mata;0.0; 0.000537; 0.000819; 0.000312; 5.6e-05; 3e-05; false; 0.002087
@@ -65,8 +64,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-compl;mata-s
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance07947.mata;0.02; 0.008073; 0.012595; 0.001714; 0.000149; 8.7e-05; false; 0.024476
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08001.mata;0.04; 0.018697; 0.010318; 0.008524; 0.00032; 5.2e-05; false; 0.041118
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08023.mata;0.03; 0.028622; 0.000516; 0.003833; 0.000366; 4.8e-05; false; 0.039283
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08029.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08074.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08114.mata;0.46; 0.090071; 0.086045; 0.268933; 0.007393; 0.000408; false; 0.488509
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08116.mata;0.01; 0.004513; 0.009251; 0.003247; 0.000327; 4.1e-05; false; 0.019873
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance08118.mata;0.54; 0.329951; 0.212291; 0.002427; 0.000141; 0.000143; false; 0.570989
@@ -128,7 +125,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-compl;mata-s
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance09928.mata;0.02; 0.012639; 0.008568; 0.002051; 0.000146; 0.000103; false; 0.025783
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance10051.mata;0.04; 0.018971; 0.029599; 0.001584; 9.5e-05; 0.000102; false; 0.053677
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance10088.mata;0.06; 0.030807; 0.029187; 0.0023; 0.000145; 0.000128; false; 0.066899
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance10092.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance10101.mata;0.47; 0.094722; 0.232243; 0.126188; 0.005564; 0.000152; false; 0.48453
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance10136.mata;0.13; 0.071888; 0.031457; 0.023943; 0.000177; 0.000201; false; 0.136762
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance10159.mata;0.0; 0.000892; 0.001375; 0.001089; 0.000107; 7.4e-05; false; 0.004339
@@ -203,7 +199,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-compl;mata-s
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12062.mata;0.0; 0.001894; 0.001955; 0.001101; 0.000105; 7.3e-05; false; 0.005931
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12071.mata;0.06; 0.035155; 0.026294; 0.002401; 0.000147; 0.000127; false; 0.068358
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12107.mata;2.47; 1.89282; 0.735177; 0.003509; 0.000162; 0.000293; false; 2.70768
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12143.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12153.mata;0.02; 0.016465; 0.015411; 0.001167; 8.2e-05; 8.4e-05; false; 0.035517
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12167.mata;0.13; 0.046483; 0.0811; 0.002038; 9e-05; 6e-05; false; 0.135459
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance12182.mata;0.01; 0.004254; 0.00751; 0.003726; 0.000266; 0.000129; false; 0.017947
@@ -262,8 +257,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-compl;mata-s
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance13934.mata;0.22; 0.009333; 0.008008; 0.190665; 0.008309; 0.000317; false; 0.232312
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance13994.mata;0.0; 0.001465; 0.00112; 0.00125; 8.1e-05; 6e-05; false; 0.004672
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14063.mata;0.03; 0.018321; 0.019353; 0.001201; 6.4e-05; 5.6e-05; false; 0.042193
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14064.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14085.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14207.mata;0.0; 0.003464; 0.003095; 0.000688; 5.7e-05; 4.4e-05; false; 0.00828
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14212.mata;0.0; 0.003518; 0.003118; 0.000694; 5.8e-05; 4.4e-05; false; 0.008384
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14293.mata;0.0; 0.002144; 0.00403; 0.002148; 0.000286; 0.000203; false; 0.010405
@@ -274,7 +267,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-compl;mata-s
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14468.mata;0.2; 0.00828; 0.007725; 0.174676; 0.007611; 0.000239; false; 0.212665
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14488.mata;0.04; 0.012507; 0.028113; 0.001131; 9e-05; 4.2e-05; false; 0.04413
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14621.mata;0.0; 0.002492; 0.002744; 0.001021; 0.000102; 7e-05; false; 0.007443
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14668.mata;ERR;ERR;ERR;ERR;ERR;ERR;ERR;ERR
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14719.mata;0.0; 0.001893; 0.002242; 0.000642; 5.8e-05; 4.2e-05; false; 0.005583
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14761.mata;0.14; 0.125363; 0.001623; 0.006279; 0.000378; 0.000247; false; 0.153086
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement-big/instance14763.mata;0.13; 0.050654; 0.040237; 0.035703; 0.000159; 7.1e-05; false; 0.134077

@@ -415,7 +415,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-intersection
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06846-*.mata;0.22; 0.079735; 0.137991; 0.001478; 0.000309; 0.000288; false; 0.233533
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06847-*.mata;0.0; 0.007685; 0.000464; 0.000281; 6e-05; 5.6e-05; false; 0.009986
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06850-*.mata;0.01; 0.021984;0.002218;0.000127;4.9e-05; 1e-06; true; 0.030748
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06851-*.mata;23.63; 24.7757; 0.003598; 0.088187; 0.041263; 0.000285; false; 26.5887
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06856-*.mata;0.0; 0.007418;0.000389;2.3e-05;2e-05; 3.2e-05; false; 0.009084
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06857-*.mata;0.02; 0.019545; 0.000462; 6e-05; 1.5e-05; 8.8e-05; false; 0.023245
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance06860-*.mata;0.09; 0.052665; 0.037923; 0.000823; 9.2e-05; 0.000333; false; 0.098469
@@ -2906,7 +2905,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-intersection
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11940-*.mata;0.04; 0.033525;0.000187;3.899999999999999e-05;1.2e-05; 1e-06; true; 0.041336
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11941-*.mata;0.02; 0.022828;0.0014320000000000001;0.000141;4.3e-05; 0.000115; false; 0.029009
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11946-*.mata;0.04; 0.024417;0.015245999999999997;0.000731;0.00019; 2e-06; true; 0.04657
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11947-*.mata;27.5; 28.3937;0.002614;0.000304;6.900000000000001e-05; 4e-06; true; 30.7649
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11950-*.mata;0.0; 0.003547; 0.000524; 5.3e-05; 1.7e-05; 2.2e-05; false; 0.004872
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11951-*.mata;0.06; 0.035357;0.020905999999999998;0.000176;4.599999999999999e-05; 1e-06; true; 0.063089
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11956-*.mata;0.02; 0.021001;0.002416;0.000193;6.3e-05; 2e-06; true; 0.028747
@@ -3038,7 +3036,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-intersection
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12222-*.mata;0.01; 0.009151;0.000499;4.7e-05;2.3000000000000003e-05; 2e-06; true; 0.011639
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12223-*.mata;0.05; 0.037931;0.007291000000000001;0.0021070000000000004;0.00041; 0.000261; false; 0.055497
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12224-*.mata;0.03; 0.021304;0.004168;0.000604;0.000149; 2e-06; true; 0.03125
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12225-*.mata;28.89; 30.3978;0.00027000000000000006;1.9e-05;5.999999999999999e-06; 3e-06; true; 32.128
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12229-*.mata;0.0; 0.002869; 0.0004; 4.7e-05; 2.4e-05; 1.9e-05; false; 0.003972
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12232-*.mata;0.0; 0.006352;0.001592;0.000342;7.8e-05; 4.2e-05; false; 0.009711
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12233-*.mata;0.05; 0.044728;0.0020450000000000004;0.00014;5.800000000000001e-05; 2e-06; true; 0.056376
@@ -4395,7 +4392,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-reduce;mata-sim-intersection
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15007-*.mata;0.0; 0.005634; 0.000114; 2.3e-05; 7e-06; 2.8e-05; false; 0.006787
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15010-*.mata;0.02; 0.023671;0.002092;5.4000000000000005e-05;1.1999999999999999e-05; 2e-06; true; 0.03012
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15011-*.mata;0.02; 0.020995;0.0006389999999999999;7.6e-05;2.1000000000000002e-05; 2e-06; true; 0.026491
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15016-*.mata;22.6; 23.95;0.002347;0.00033800000000000003;0.00016299999999999998; 2e-06; true; 25.2614
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15017-*.mata;0.0; 0.006847;0.0009750000000000001;4.9e-05;3.9e-05; 3.1e-05; false; 0.00932
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15020-*.mata;0.35; 0.320668;0.000354;1.4000000000000001e-05;4.9999999999999996e-06; 4e-06; true; 0.384192
 /home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance15021-*.mata;0.0; 0.002936; 0.000193; 3.9e-05; 2.2e-05; 2.1e-05; false; 0.003991
