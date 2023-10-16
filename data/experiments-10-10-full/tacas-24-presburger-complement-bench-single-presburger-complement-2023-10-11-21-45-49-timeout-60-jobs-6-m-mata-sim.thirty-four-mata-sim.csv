@@ -15,7 +15,6 @@ name;mata-sim-runtime;mata-sim-mataparsing;mata-sim-mataminterm;mata-sim-reduce;
 /home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/Primes_true-unreach-call.c_671.0.mata;0.65; 0.581699; 0.133695; 0.001308; 0.000139; 1.9e-05; 1.6e-05; false; 0.71873
 /home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/Primes_true-unreach-call.c_673.0.mata;1.54; 1.40012; 0.311033; 0.001294; 0.000121; 1.7e-05; 1.6e-05; false; 1.7142
 /home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/Primes_true-unreach-call.c_678.0.mata;1.18; 1.0962; 0.222714; 0.001309; 0.000123; 1.7e-05; 1.7e-05; false; 1.32205
-/home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/Primes_true-unreach-call.c_798.0.mata;26.78; 28.2043; 3.53973; 0.002462; 8.9e-05; 1.3e-05; 2.9e-05; false; 31.7524
 /home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/nested6_true-unreach-call.i_7.0.mata;0.01; 0.010035; 0.007577; 0.000394; 0.000231; 2.7e-05; 1e-05; false; 0.019588
 /home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/nested9_true-unreach-call.i_1070.0.mata;0.04; 0.033976; 0.01512; 0.001276; 0.000265; 3.2e-05; 1.1e-05; false; 0.05272
 /home/experiments/nfa-bench/benchmarks/presburger/complement/UltimateAutomizer/nested9_true-unreach-call.i_1072.0.mata;0.08; 0.07568; 0.019598; 0.001268; 0.000272; 2.9e-05; 1.6e-05; false; 0.098663
