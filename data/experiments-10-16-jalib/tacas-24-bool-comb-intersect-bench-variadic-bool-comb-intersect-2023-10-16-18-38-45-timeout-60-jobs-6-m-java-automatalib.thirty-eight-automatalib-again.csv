@@ -1,0 +1,188 @@
+name;java-automatalib-runtime;java-automatalib-construction;java-automatalib-determinize;java-automatalib-interall;java-automatalib-emptiness_check;java-automatalib-emptiness_result;java-automatalib-interpretation;java-automatalib-overall
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-10-*.mata;1.45;0.044908952;0.219657325; 0.100547378; 0.002580715; false; 0.364721947; 0.532311812
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-11-*.mata;1.82;0.14891616099999996;0.280202941; 0.099901463; 0.002792872; false; 0.392143253; 0.749553671
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-12-*.mata;2.04;0.15364276699999999;0.4011988399999999; 0.069601762; 0.002202079; false; 0.481014699; 0.927694294
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-13-*.mata;2.19;0.08895584299999999;0.44483204000000004; 0.091091658; 0.009310587; false; 0.56231235; 0.854969335
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-14-*.mata;2.07;0.14558578000000003;0.39434843199999997; 0.136482614; 0.002197503; false; 0.542584211; 0.978444017
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-15-*.mata;1.84;0.090531439;0.363071002; 0.097680043; 0.003358014; false; 0.480091887; 0.756092361
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-16-*.mata;2.21;0.06204012299999999;0.34722372299999993; 0.080424265; 0.002612939; false; 0.455815603; 0.666743009
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-17-*.mata;2.75;0.165244667;0.6279615719999999; 0.165437079; 0.002469326; false; 0.824538325; 1.273725809
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-18-*.mata;2.53;0.07786878200000001;0.41687929600000007; 0.174811679; 0.002341208; false; 0.603413405; 0.853265645
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-19-*.mata;2.59;0.20224099499999995;0.5204401709999998; 0.141129967; 0.002403137; false; 0.683630211; 1.218294454
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-2-*.mata;1.1;0.032096779;0.059962357; 0.021098821; 0.002883569; false; 0.093951904; 0.284258528
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-20-*.mata;2.92;0.20472694800000002;0.4436340140000001; 0.063630012; 0.002427036; false; 0.519019773; 1.039179844
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-21-*.mata;3.05;0.08809944699999998;0.550123263; 0.144976127; 0.002445004; false; 0.72464864; 1.050786563
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-22-*.mata;3.41;0.138594541;0.608132446; 0.214731551; 0.042034364; false; 0.897125356; 1.275125017
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-23-*.mata;3.32;0.19080122499999994;0.5948574180000001; 0.236063557; 0.002424716; false; 0.860851826; 1.38042264
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-24-*.mata;3.58;0.265146807;0.7005899250000001; 0.248194465; 0.003950103; false; 0.989997097; 1.631039909
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-25-*.mata;3.83;0.259605272;0.64465125; 0.118046341; 0.002505901; false; 0.784589041; 1.483826249
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-26-*.mata;3.94;0.253261231;0.799434481; 0.189840447; 0.002588462; false; 1.013894517; 1.663025847
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-27-*.mata;4.09;0.120860152;0.875712641; 0.27114567; 0.002407672; false; 1.191692048; 1.573534744
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-28-*.mata;4.65;0.14940919100000002;0.7657660760000001; 0.31333333; 0.002432391; false; 1.106414848; 1.564047482
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-29-*.mata;4.7;0.2382309289999999;0.7830847659999995; 0.30181265; 0.003404444; false; 1.154025803; 1.904513373
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-3-*.mata;1.21;0.045516185;0.188615124; 0.044772099; 0.005197741; false; 0.255067784; 0.479336785
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-30-*.mata;5.14;0.23862274099999994;0.862283615; 0.163139426; 0.002345538; false; 1.068656801; 1.832055731
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-31-*.mata;4.49;0.256026619;0.7874851080000002; 0.128293621; 0.002134176; false; 0.928644106; 1.854515794
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-32-*.mata;4.93;0.132068108;0.686570078; 0.134611705; 0.004377795; false; 0.85573293; 1.258178684
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-33-*.mata;5.54;0.22071695600000002;1.0685435460000001; 0.439866413; 0.010256633; false; 1.558196528; 2.187493139
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-34-*.mata;5.28;0.25893343300000005;1.203540185; 0.343664074; 0.020857897; false; 1.599436762; 2.269978576
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-35-*.mata;6.56;0.252341833;1.5315411300000001; 0.415561362; 0.027457053; false; 1.993162108; 2.71442997
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-36-*.mata;6.23;0.32200716099999993;1.2837810949999997; 0.236075194; 0.002805525; false; 1.564014797; 2.49189426
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-37-*.mata;6.55;0.29911884;1.2841356060000007; 0.266160998; 0.006617311; false; 1.575363907; 2.502114653
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-38-*.mata;6.69;0.19920529500000006;1.348717334; 0.346213052; 0.002249744; false; 1.718236257; 2.237579461
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-39-*.mata;6.99;0.29642335100000006;1.8170584800000005; 0.354414084; 0.00748355; false; 2.231446381; 3.040265316
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-4-*.mata;1.23;0.047414438999999996;0.126619021; 0.034639132; 0.002379121; false; 0.171021222; 0.315892547
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-40-*.mata;6.96;0.308531389;2.037362738; 0.330700555; 0.002483271; false; 2.392040955; 3.15168314
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-41-*.mata;6.93;0.312198892;1.5958058839999996; 0.341763226; 0.002657789; false; 2.076952681; 2.978304998
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-42-*.mata;7.21;0.4413842420000001;2.0382978620000003; 0.307022502; 0.012111773; false; 2.396685999; 3.560780873
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-43-*.mata;7.72;0.21002429;1.7703771529999996; 0.213459115; 0.002576212; false; 2.012153748; 2.990876522
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-44-*.mata;8.11;0.23188091;1.3977725990000005; 0.281947461; 0.002135897; false; 1.711812586; 2.408075781
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-45-*.mata;7.91;0.2760722500000002;2.182378582; 0.412147254; 0.002420619; false; 2.620617818; 3.444787731
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-46-*.mata;8.56;0.3965364010000001;2.4281377; 0.469341605; 0.002151168; false; 2.943588768; 3.92526191
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-47-*.mata;8.65;0.3156944880000001;2.4988580980000004; 0.459479444; 0.020937381; false; 2.993202961; 3.94629101
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-48-*.mata;9.34;0.49082599800000026;2.5136658330000006; 0.348445344; 0.007896164; false; 2.898379893; 4.221697258
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-49-*.mata;9.34;0.34768751500000017;2.262642285; 0.281702069; 0.016435257; false; 2.750492974; 3.883922053
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-5-*.mata;1.35;0.098042796;0.152492323; 0.05471901; 0.002641537; false; 0.230366643; 0.537985502
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-50-*.mata;10.16;0.21235101999999997;2.2577855640000006; 0.872298008; 0.002347674; false; 3.161368559; 3.732619608
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-51-*.mata;9.74;0.31563025;3.542949023000002; 0.626064312; 0.002475582; false; 4.219782451; 4.998494301
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-52-*.mata;10.0;0.46337096100000014;2.9022316999999993; 0.529516142; 0.005069782; false; 3.555406318; 4.893178277
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-53-*.mata;10.08;0.4958949370000001;2.9232194359999997; 0.586409766; 0.013607403; false; 3.560867717; 4.826370088
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-54-*.mata;9.66;0.5697085160000002;2.6753439290000003; 0.396597526; 0.003000751; false; 3.126115105; 4.562603058
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-55-*.mata;11.06;0.7338305879999999;2.9344723900000007; 0.22783773; 0.002132193; false; 3.203274354; 4.796249067
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-56-*.mata;9.8;0.24801417799999997;1.952664061; 0.419899435; 0.041425485; false; 2.432255315; 3.109383989
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-57-*.mata;10.21;0.5019404999999998;2.7980605169999997; 0.631263996; 0.008981412; false; 3.462767693; 4.565901354
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-58-*.mata;10.18;0.5705163190000001;2.719007793000001; 0.562888759; 0.002588234; false; 3.302451791; 4.708160783
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-59-*.mata;10.89;0.32488799300000004;2.8136857810000007; 0.413890302; 0.002892277; false; 3.270313424; 4.570674129
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-6-*.mata;1.25;0.036781653000000004;0.087948704; 0.076301483; 0.001483244; false; 0.176407805; 0.291431393
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-60-*.mata;10.93;0.5863503000000002;2.1873433169999994; 0.910391443; 0.021177531; false; 3.146858125; 4.701366271
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-7-*.mata;1.48;0.12963677;0.288060478; 0.10589723; 0.020323949; false; 0.422210457; 0.799532531
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-8-*.mata;1.63;0.116487029;0.21539496700000002; 0.116663975; 0.002253992; false; 0.35592556; 0.676183792
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/expbranching-9-*.mata;1.54;0.075363929;0.20270477799999997; 0.069819943; 0.002272381; false; 0.282338713; 0.51657403
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-10-*.mata;4.9;0.311663797;2.215131028; 0.04787891; 0.002357787; false; 2.299816893; 3.021607491
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-11-*.mata;5.47;0.488783938;2.264423582; 0.034209641; 0.002249078; false; 2.308970541; 3.284759396
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-12-*.mata;5.66;0.34370934200000003;2.590666429; 0.076014107; 0.002332877; false; 2.68711847; 3.571736362
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-13-*.mata;6.9;0.5646912;2.958100547; 0.045906558; 0.002350443; false; 3.014657167; 4.169888671
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-14-*.mata;7.99;0.534799798;3.2954384009999993; 0.077121038; 0.003343621; false; 3.417218437; 4.665133418
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-15-*.mata;8.78;0.3078542500000001;4.1484651669999995; 0.146403925; 0.002369788; false; 4.306130358; 5.280747947
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-16-*.mata;10.15;0.27785819399999995;4.182194432999999; 0.068132514; 0.008669307; false; 4.268307692; 5.352083191
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-17-*.mata;10.33;0.43175816300000003;5.5213150859999995; 0.122328938; 0.002395072; false; 5.654472559; 6.861931318
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-18-*.mata;11.42;0.6155102989999999;6.812661647999999; 0.074283001; 0.006859442; false; 6.916099818; 8.313517857
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-19-*.mata;10.75;0.52943204;6.038837212; 0.116965785; 0.002582719; false; 6.180460154; 7.531760196
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-2-*.mata;1.53;0.11873151500000001;0.26635235999999995; 0.058041664; 0.012470988; false; 0.385518776; 0.78555865
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-20-*.mata;11.87;0.3835135400000001;7.2295094429999995; 0.110328185; 0.002430174; false; 7.382320228; 8.620548573
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-21-*.mata;12.5;0.40256749199999997;6.9433366340000005; 0.084178635; 0.005255695; false; 7.072598615; 8.21844495
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-22-*.mata;13.75;0.36981903699999996;8.452146533; 0.068143394; 0.002556429; false; 8.532833709; 9.772729977
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-23-*.mata;13.85;0.3030139050000001;9.16361514; 0.10766056; 0.002167962; false; 9.283101048; 10.717623003
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-24-*.mata;15.64;0.43825824299999994;9.788130961; 0.088006285; 0.002344407; false; 9.889424803; 11.47672232
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-25-*.mata;16.03;0.4830676510000001;10.805269483; 0.110412936; 0.002397599; false; 10.928591089; 12.341968969
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-26-*.mata;19.15;0.36866160200000003;12.209617690999998; 0.070724368; 0.002647541; false; 12.294009748; 13.714479418
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-27-*.mata;19.9;0.48575873099999994;13.218678428; 0.091437347; 0.011627229; false; 13.344957665; 14.774557927
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-28-*.mata;22.55;0.50435523;14.726329957; 0.070548485; 0.002441404; false; 14.812608924; 16.41945267
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-29-*.mata;23.83;0.542127203;16.461995877; 0.093411165; 0.008372204; false; 16.575203928; 18.068973915
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-3-*.mata;1.87;0.101777444;0.395360467; 0.035592616; 0.002573746; false; 0.447009583; 0.749035436
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-30-*.mata;23.09;0.6608063999999998;15.859634463; 0.092653294; 0.006201375; false; 15.97354391; 17.628844313
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-31-*.mata;23.94;0.605131399;17.223050336; 0.101930474; 0.002174734; false; 17.360259083; 19.292477986
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-32-*.mata;27.37;0.6689491219999999;20.056322051000002; 0.126873421; 0.002299164; false; 20.228557915; 21.951079249
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-33-*.mata;29.58;0.710806308;21.911731991; 0.085803299; 0.002375022; false; 22.014507009; 23.781428444
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-34-*.mata;35.19;0.841089034;25.386981997000003; 0.089599919; 0.002502927; false; 25.49221719; 27.506172523
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-35-*.mata;36.84;1.0045211079999998;25.624882209999992; 0.103025216; 0.002941863; false; 25.751101909; 27.951967821
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-36-*.mata;34.58;0.5987612310000001;26.363441996; 0.131648434; 0.002960091; false; 26.522495546; 28.099365918
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-37-*.mata;38.23;0.8646272190000001;28.471616420000004; 0.129513852; 0.002095788; false; 28.621002249; 30.71652101
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-38-*.mata;42.61;1.1356633779999996;32.660965788; 0.17952503; 0.002602233; false; 32.883058768; 35.107815528
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-39-*.mata;44.01;1.096004124;32.693328661; 0.11639521; 0.003219556; false; 32.842605563; 35.158326736
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-4-*.mata;1.88;0.046482183;0.209206751; 0.044855401; 0.002503769; false; 0.263931754; 0.453930363
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-40-*.mata;45.52;1.1123224070000002;35.72262147599999; 0.12433028; 0.003028437; false; 35.904327946; 38.185571236
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-41-*.mata;50.83;1.3967349180000004;40.697242621; 0.113910999; 0.002525795; false; 40.827576292; 43.635919433
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-42-*.mata;52.42;1.4112505239999997;41.98532514699999; 0.143437711; 0.002995301; false; 42.146882248; 44.879748083
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-43-*.mata;55.69;1.2407197989999998;44.25019880199999; 0.114211141; 0.00249526; false; 44.394160789; 47.072153723
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-44-*.mata;59.39;1.7015022120000005;47.855672659999996; 0.127552668; 0.003207809; false; 48.00133728; 51.136134447
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-45-*.mata;60.26;1.741930926;48.27326754999999; 0.120727524; 0.003216111; false; 48.421985822; 51.854090111
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-46-*.mata;TO;1.3885520320000002;51.23033121800001;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-47-*.mata;TO;1.704459985;51.24297671899998;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-48-*.mata;TO;2.007320188;50.712878699;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-49-*.mata;TO;2.0445984720000006;50.162601859999995;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-5-*.mata;2.47;0.063378725;0.389477282; 0.029766916; 0.002326071; false; 0.430036029; 0.672596595
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-50-*.mata;TO;2.131747778;50.464746360000014;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-51-*.mata;TO;2.0679052129999995;50.288683637;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-52-*.mata;TO;2.1813480519999993;48.266106754000006;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-53-*.mata;TO;2.467216256;48.572574542;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-54-*.mata;TO;2.4737582960000006;48.171974137;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-55-*.mata;TO;2.913953977;46.16651081;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-56-*.mata;TO;2.8295925150000003;46.59512946199999;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-57-*.mata;TO;2.1987170140000005;45.61344836900001;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-58-*.mata;TO;2.7008622500000006;45.953868897000014;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-59-*.mata;TO;3.548333691999999;45.20469040100001;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-6-*.mata;2.56;0.092910782;0.524624928; 0.068516906; 0.016345498; false; 0.62444796; 1.044077019
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-60-*.mata;TO;3.640430947;45.824291468;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-7-*.mata;3.15;0.081187572;0.585286604; 0.030352911; 0.00215534; false; 0.624640418; 0.936918138
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-8-*.mata;3.85;0.100495538;0.935255866; 0.020349588; 0.008441359; false; 0.969382202; 1.42392031
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths1-9-*.mata;3.68;0.083383292;1.029674829; 0.042869257; 0.002231584; false; 1.082987887; 1.391938575
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-10-*.mata;TO;0.139759185;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-11-*.mata;TO;0.17234594;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-12-*.mata;TO;0.141519325;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-13-*.mata;TO;0.19741187500000001;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-14-*.mata;TO;0.331920834;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-15-*.mata;TO;0.21076430100000001;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-16-*.mata;TO;0.45287994500000006;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-17-*.mata;TO;0.42463265199999994;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-18-*.mata;TO;0.31055522699999993;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-19-*.mata;TO;0.2999396509999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-2-*.mata;TO;0.04245196;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-20-*.mata;TO;0.43048245999999996;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-21-*.mata;TO;0.34769123399999996;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-22-*.mata;TO;0.33322228899999995;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-23-*.mata;TO;0.34909274600000006;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-24-*.mata;TO;0.418577489;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-25-*.mata;TO;0.37429219400000013;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-26-*.mata;TO;0.5188475659999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-27-*.mata;TO;0.471535014;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-28-*.mata;TO;0.5769611869999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-29-*.mata;TO;0.4939530740000001;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-3-*.mata;TO;0.060267611;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-30-*.mata;TO;0.6643111909999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-31-*.mata;TO;0.6519155839999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-32-*.mata;TO;0.8734042870000003;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-33-*.mata;TO;0.7768940409999998;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-34-*.mata;TO;0.8661154169999998;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-35-*.mata;TO;1.0579368889999998;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-36-*.mata;TO;1.016495686;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-37-*.mata;TO;1.376011711;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-38-*.mata;TO;1.139397547;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-39-*.mata;TO;1.1623428640000002;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-4-*.mata;TO;0.053643959;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-40-*.mata;TO;1.3280373900000002;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-41-*.mata;TO;1.403033145;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-42-*.mata;TO;1.341905817;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-43-*.mata;TO;1.3631647359999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-44-*.mata;TO;1.4443209929999998;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-45-*.mata;TO;1.695401166;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-46-*.mata;TO;1.828441641;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-47-*.mata;TO;1.6316156000000002;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-48-*.mata;TO;1.969453201;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-49-*.mata;TO;2.081787103;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-5-*.mata;TO;0.12017475;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-50-*.mata;TO;1.9665785549999997;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-51-*.mata;TO;2.158211040999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-52-*.mata;TO;2.193460781;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-53-*.mata;TO;2.57358478;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-54-*.mata;TO;2.615829058;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-55-*.mata;TO;2.8462065239999994;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-56-*.mata;TO;2.930442217999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-57-*.mata;TO;2.3949560640000005;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-58-*.mata;TO;3.2252974940000003;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-59-*.mata;TO;2.9663020310000006;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-6-*.mata;TO;0.17037234599999998;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-60-*.mata;TO;3.275216861;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-7-*.mata;TO;0.08760463;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-8-*.mata;TO;0.140969841;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/exppaths2-9-*.mata;TO;0.130917085;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-100-*.mata;TO;0.06925219099999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-150-*.mata;TO;0.052175215999999996;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-200-*.mata;TO;0.052305249;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-250-*.mata;TO;0.154850248;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-300-*.mata;TO;0.07172234999999999;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-350-*.mata;TO;0.061864865000000005;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-400-*.mata;TO;0.068544695;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-450-*.mata;TO;0.062206472;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-50-*.mata;TO;0.052619842;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
+/home/experiments/nfa-bench/benchmarks/bool_comb/intersect/longstrings-500-*.mata;TO;0.097341978;MISSING;MISSING;MISSING;MISSING;MISSING;MISSING
