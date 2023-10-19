@@ -1,5 +1,0 @@
-     Finished / Errors / Timeouts    
--------------------------------------
-bench         mata        mata-old
-------------  ----------  -----------
-bc_intersect  50, 0, 137  31, 111, 45

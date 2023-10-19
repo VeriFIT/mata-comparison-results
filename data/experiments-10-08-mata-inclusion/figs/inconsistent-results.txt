@@ -1,1 +1,0 @@
-input  	mata-sim  	mata  	mata-old  	(py)mata  	number

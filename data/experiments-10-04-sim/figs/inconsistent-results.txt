@@ -1,1 +1,0 @@
-input  	mata  	mata-sim  	number

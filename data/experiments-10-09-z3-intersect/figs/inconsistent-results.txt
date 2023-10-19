@@ -1,7 +1,0 @@
-input                                                                                         	mata-sim  	mona  	mata-old  	mata  	vata  	automata  	awali  	(py)alib  	(j)alib  	fado  	(py)mata  	brics  	  number
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance05996-*.mata	false     	true  	false     	false 	false 	false     	false  	false     	false    	false 	false     	false  	    1707
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance08310-*.mata	false     	true  	false     	false 	false 	false     	ERR    	false     	false    	false 	false     	false  	       1
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance10388-*.mata	false     	true  	false     	false 	false 	false     	false  	nan       	nan      	false 	false     	false  	       2
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance11268-*.mata	false     	true  	false     	false 	false 	false     	false  	nan       	false    	false 	false     	false  	       1
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance12550-*.mata	false     	true  	false     	false 	false 	false     	false  	ERR       	false    	false 	false     	false  	       1
-/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/intersection/instance13195-*.mata	false     	true  	false     	false 	false 	false     	false  	false     	false    	nan   	false     	false  	       1

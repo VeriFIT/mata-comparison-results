@@ -1,7 +1,0 @@
-    Finished / Errors / Timeouts   
------------------------------------
-bench         mata       mata-old
-------------  ---------  ----------
-bc_cox_diff   40, 0, 0   40, 0, 0
-bc_cox_inter  40, 0, 0   40, 0, 0
-bc_intersect  187, 0, 0  187, 0, 0
