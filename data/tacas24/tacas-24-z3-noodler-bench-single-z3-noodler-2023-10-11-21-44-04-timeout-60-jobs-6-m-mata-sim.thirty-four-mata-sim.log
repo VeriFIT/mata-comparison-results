@@ -1,0 +1,876 @@
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance00279-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance00296-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance00296-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance01829-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02090-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-10.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-9.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03005-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03140-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance04001-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance04390-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance04451-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance05755-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance05997-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06250-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06315-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06342-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-10.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-11.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-12.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-13.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-14.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-15.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-16.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-17.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-18.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-19.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-20.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-21.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-22.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-23.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-24.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-25.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-26.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-27.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-28.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-29.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-30.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-31.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-32.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-33.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-34.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-35.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-36.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-37.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-38.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-39.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-40.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-41.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-42.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-43.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-44.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-45.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-46.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-47.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-48.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-49.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-50.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-51.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-52.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-53.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-54.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-55.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-56.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-57.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-58.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-59.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-60.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-9.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06600-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06600-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06600-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06712-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06895-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06895-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06895-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07046-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07046-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07103-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07154-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07154-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07292-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07338-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07380-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07380-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07380-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07416-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07504-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07504-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07504-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07553-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07553-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07553-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07787-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07787-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07857-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07912-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07912-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07945-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-10.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-11.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-12.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-13.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-14.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-15.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-16.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-17.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-18.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-9.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08167-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08167-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08188-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08188-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08188-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-10.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-9.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08472-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08537-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08537-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-10.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-11.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-12.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-13.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-14.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-15.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-16.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-17.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-18.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-19.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-20.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-21.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-22.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-23.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-24.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-9.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08976-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08976-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09058-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09058-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09058-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09234-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09234-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09263-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09633-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09664-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09776-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09799-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09849-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09849-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10015-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10042-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10279-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10279-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10384-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10384-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10412-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10412-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10557-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10629-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10691-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10783-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10783-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10804-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10804-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11038-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11038-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11080-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11254-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11653-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11653-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11983-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11983-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12028-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12028-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12028-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12090-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12213-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12244-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12244-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12478-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12478-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12478-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12614-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12643-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12706-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12751-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13005-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13052-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13117-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13117-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13140-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13140-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13394-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13455-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13455-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13455-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13510-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13510-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13547-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13547-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13681-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13843-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13906-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14144-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14328-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14328-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14328-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14390-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14451-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14451-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14451-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14685-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14685-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14778-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14797-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14847-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14847-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14902-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15094-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15094-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15094-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15169-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15169-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15169-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15186-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15186-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-10.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-11.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-4.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-5.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-6.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-7.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-8.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-9.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15240-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15240-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15305-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15493-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15493-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15493-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15539-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15539-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15539-3.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15581-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15647-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15647-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15755-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15885-1.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15885-2.mata
+execute;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15978-1.mata
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-1.mata;0;mataparsing: 7.8e-05###reduce: 3.4e-05###compl: 1.9e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000255;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance00296-2.mata;0;mataparsing: 8.3e-05###reduce: 3.4e-05###compl: 1.9e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000299;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02090-1.mata;0;mataparsing: 0.000104###reduce: 3.4e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000264;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance00279-1.mata;0;mataparsing: 8.5e-05###reduce: 3e-05###compl: 2e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000271;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance01829-1.mata;0;mataparsing: 6.5e-05###reduce: 3.2e-05###compl: 7e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000205;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance00296-1.mata;0;mataparsing: 6.8e-05###reduce: 4.1e-05###compl: 1.1e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000267;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-2.mata;0;mataparsing: 8.5e-05###reduce: 3.5e-05###compl: 1.1e-05###trim: 8e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000242;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-3.mata;0;mataparsing: 6.7e-05###reduce: 2.1e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000188;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-10.mata;0;mataparsing: 7.6e-05###reduce: 3.9e-05###compl: 6e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000208;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-4.mata;0;mataparsing: 0.0001###reduce: 3.3e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00031;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-5.mata;0;mataparsing: 9.2e-05###reduce: 2.9e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000249;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-6.mata;0;mataparsing: 7.5e-05###reduce: 3.7e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000232;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-7.mata;0;mataparsing: 9.4e-05###reduce: 3.3e-05###compl: 2.8e-05###trim: 1.4e-05###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.000318;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-9.mata;0;mataparsing: 7.1e-05###reduce: 3e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000205;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance02993-8.mata;0;mataparsing: 4.9e-05###reduce: 2.2e-05###compl: 7e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000175;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03005-1.mata;0;mataparsing: 7e-05###reduce: 2.9e-05###compl: 9e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000203;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-1.mata;0;mataparsing: 8.3e-05###reduce: 3e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000222;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03140-1.mata;0;mataparsing: 5.9e-05###reduce: 2.1e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000157;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-2.mata;0;mataparsing: 5.7e-05###reduce: 3.9e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000199;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-3.mata;0;mataparsing: 7.6e-05###reduce: 3e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000211;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-4.mata;0;mataparsing: 8e-05###reduce: 3e-05###compl: 9e-06###trim: 2.7e-05###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00026;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance03455-5.mata;0;mataparsing: 7.3e-05###reduce: 2.8e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000214;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance04390-1.mata;0;mataparsing: 7.3e-05###reduce: 5.1e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000237;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance04001-1.mata;0;mataparsing: 0.000148###reduce: 5.5e-05###compl: 1.5e-05###trim: 3e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000376;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance04451-1.mata;0;mataparsing: 0.000105###reduce: 7.5e-05###compl: 1e-05###trim: 8e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00031;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance05755-1.mata;0;mataparsing: 7.6e-05###reduce: 3.1e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000236;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance05997-1.mata;0;mataparsing: 0.000409###reduce: 0.000294###compl: 0.000149###trim: 1.7e-05###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.001108;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-2.mata;0;mataparsing: 0.000284###reduce: 0.000247###compl: 0.000148###trim: 1.8e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.000921;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-3.mata;0;mataparsing: 0.000201###reduce: 0.000165###compl: 8.1e-05###trim: 1.3e-05###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000619;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-4.mata;0;mataparsing: 0.000253###reduce: 0.000222###compl: 0.000113###trim: 2.1e-05###emptiness_check: 1.6e-05###emptiness_check_result: false###overall: 0.000805;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06179-1.mata;0;mataparsing: 0.001335###reduce: 0.001085###compl: 0.000277###trim: 1.8e-05###emptiness_check: 2.6e-05###emptiness_check_result: false###overall: 0.003106;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-2.mata;0;mataparsing: 0.000194###reduce: 0.000394###compl: 0.000174###trim: 1.8e-05###emptiness_check: 2.1e-05###emptiness_check_result: false###overall: 0.00106;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-1.mata;0;mataparsing: 0.000977###reduce: 0.000481###compl: 0.000203###trim: 1.4e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.002015;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-3.mata;0;mataparsing: 8.2e-05###reduce: 2.9e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000221;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06250-1.mata;0;mataparsing: 0.000355###reduce: 0.00017###compl: 7.6e-05###trim: 6e-06###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.000782;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06196-4.mata;0;mataparsing: 0.000314###reduce: 0.000344###compl: 0.000263###trim: 3.1e-05###emptiness_check: 3.3e-05###emptiness_check_result: false###overall: 0.001259;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06315-1.mata;0;mataparsing: 0.00037###reduce: 0.000533###compl: 0.000206###trim: 2.4e-05###emptiness_check: 1.8e-05###emptiness_check_result: false###overall: 0.001471;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06342-1.mata;0;mataparsing: 0.000333###reduce: 0.000205###compl: 7.1e-05###trim: 1.6e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.000831;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-10.mata;0;mataparsing: 7.4e-05###reduce: 3.2e-05###compl: 1e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000193;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-12.mata;0;mataparsing: 0.000208###reduce: 6.7e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000434;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-13.mata;0;mataparsing: 6.1e-05###reduce: 3e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000213;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-11.mata;0;mataparsing: 0.000211###reduce: 6.6e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000432;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-14.mata;0;mataparsing: 0.000134###reduce: 5.3e-05###compl: 1.5e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000323;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-15.mata;0;mataparsing: 0.000125###reduce: 4.3e-05###compl: 1.5e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000295;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-16.mata;0;mataparsing: 0.000214###reduce: 7.9e-05###compl: 3.8e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00047;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-17.mata;0;mataparsing: 9.7e-05###reduce: 3e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000234;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-18.mata;0;mataparsing: 0.000137###reduce: 4.9e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000315;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-19.mata;0;mataparsing: 0.000196###reduce: 7e-05###compl: 2.8e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000418;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-2.mata;0;mataparsing: 0.000115###reduce: 5.6e-05###compl: 1.9e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000306;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-20.mata;0;mataparsing: 0.000215###reduce: 6.9e-05###compl: 2.8e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00044;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-21.mata;0;mataparsing: 4.9e-05###reduce: 2.3e-05###compl: 7e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000158;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-22.mata;0;mataparsing: 8.6e-05###reduce: 4.6e-05###compl: 1e-05###trim: 3e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000241;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-23.mata;0;mataparsing: 0.000116###reduce: 4.3e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000266;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-25.mata;0;mataparsing: 9e-05###reduce: 3.2e-05###compl: 1.1e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00027;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-26.mata;0;mataparsing: 0.000114###reduce: 5.2e-05###compl: 1.4e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000291;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-24.mata;0;mataparsing: 0.000201###reduce: 7.4e-05###compl: 2.6e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000418;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-27.mata;0;mataparsing: 0.000201###reduce: 6.6e-05###compl: 2.7e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000427;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-1.mata;0;mataparsing: 0.008107###reduce: 0.001838###compl: 0.000704###trim: 8.2e-05###emptiness_check: 3e-05###emptiness_check_result: false###overall: 0.012361;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-28.mata;0;mataparsing: 0.00019###reduce: 4.1e-05###compl: 1.5e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000339;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-29.mata;0;mataparsing: 9.3e-05###reduce: 5e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000264;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-3.mata;0;mataparsing: 0.000153###reduce: 5.7e-05###compl: 1.7e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000323;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-32.mata;0;mataparsing: 0.000218###reduce: 6.7e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000441;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-30.mata;0;mataparsing: 0.000116###reduce: 5.3e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000301;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-34.mata;0;mataparsing: 0.000105###reduce: 5.2e-05###compl: 1.5e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000292;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-31.mata;0;mataparsing: 0.000206###reduce: 6.7e-05###compl: 3.1e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000434;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-33.mata;0;mataparsing: 7.6e-05###reduce: 3e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000215;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-36.mata;0;mataparsing: 0.000208###reduce: 8.8e-05###compl: 3.5e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000459;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-35.mata;0;mataparsing: 0.000181###reduce: 6.5e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000394;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-38.mata;0;mataparsing: 7.7e-05###reduce: 3e-05###compl: 3.5e-05###trim: 0###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000215;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-37.mata;0;mataparsing: 8.7e-05###reduce: 3.4e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000284;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-39.mata;0;mataparsing: 0.000196###reduce: 5.6e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000372;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-4.mata;0;mataparsing: 0.000125###reduce: 4.9e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000312;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-40.mata;0;mataparsing: 0.000184###reduce: 5.6e-05###compl: 2.3e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000397;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-41.mata;0;mataparsing: 4.9e-05###reduce: 2.7e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000164;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-42.mata;0;mataparsing: 0.000125###reduce: 5.6e-05###compl: 1.5e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000309;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-45.mata;0;mataparsing: 7.2e-05###reduce: 3e-05###compl: 1e-05###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000216;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-46.mata;0;mataparsing: 9.5e-05###reduce: 4.1e-05###compl: 1e-05###trim: 2e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000244;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-43.mata;0;mataparsing: 0.000211###reduce: 6.8e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000472;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-44.mata;0;mataparsing: 0.00028###reduce: 0.000123###compl: 3.6e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00058;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-47.mata;0;mataparsing: 0.000187###reduce: 5.4e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000357;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-48.mata;0;mataparsing: 0.000176###reduce: 9.3e-05###compl: 2.9e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000447;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-49.mata;0;mataparsing: 9.3e-05###reduce: 6.4e-05###compl: 1.9e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000315;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-51.mata;0;mataparsing: 0.000115###reduce: 5.4e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000271;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-50.mata;0;mataparsing: 0.000169###reduce: 5.8e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000361;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-5.mata;0;mataparsing: 8.1e-05###reduce: 3e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000222;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-52.mata;0;mataparsing: 0.000149###reduce: 4.1e-05###compl: 2.5e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000317;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-54.mata;0;mataparsing: 0.000134###reduce: 3.7e-05###compl: 1e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000293;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-55.mata;0;mataparsing: 0.000119###reduce: 4.2e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00027;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-53.mata;0;mataparsing: 7.1e-05###reduce: 3.1e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000209;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-57.mata;0;mataparsing: 7.9e-05###reduce: 6.2e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000253;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-56.mata;0;mataparsing: 0.000223###reduce: 5.9e-05###compl: 1.5e-05###trim: 3e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000444;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-6.mata;0;mataparsing: 0.000128###reduce: 5.2e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00031;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-8.mata;0;mataparsing: 0.000212###reduce: 8.8e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.000484;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-7.mata;0;mataparsing: 0.000257###reduce: 7.3e-05###compl: 2.8e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000526;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-59.mata;0;mataparsing: 0.002579###reduce: 0.001182###compl: 0.000357###trim: 2.3e-05###emptiness_check: 2.5e-05###emptiness_check_result: false###overall: 0.004599;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-9.mata;0;mataparsing: 7.2e-05###reduce: 2.3e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000193;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-2.mata;0;mataparsing: 7.3e-05###reduce: 2.1e-05###compl: 6e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000187;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-1.mata;0;mataparsing: 0.000334###reduce: 0.000189###compl: 4.9e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000747;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-3.mata;0;mataparsing: 5.6e-05###reduce: 2.1e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 0###emptiness_check_result: false###overall: 0.000157;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-4.mata;0;mataparsing: 4.7e-05###reduce: 2.1e-05###compl: 9e-06###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000184;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-58.mata;0;mataparsing: 0.00529###reduce: 0.001364###compl: 0.000238###trim: 1.5e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.007904;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06600-1.mata;0;mataparsing: 0.000332###reduce: 0.000266###compl: 8.5e-05###trim: 1e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.000887;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06600-2.mata;0;mataparsing: 6.8e-05###reduce: 3.1e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000244;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-1.mata;0;mataparsing: 0.000109###reduce: 5.9e-05###compl: 2.2e-05###trim: 1.6e-05###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.000296;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06600-3.mata;0;mataparsing: 0.000572###reduce: 0.000258###compl: 7.8e-05###trim: 1e-05###emptiness_check: 7e-06###emptiness_check_result: false###overall: 0.001127;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-2.mata;0;mataparsing: 6.8e-05###reduce: 3.1e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000224;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-4.mata;0;mataparsing: 9.2e-05###reduce: 2.8e-05###compl: 1.3e-05###trim: 8e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000247;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-5.mata;0;mataparsing: 8.1e-05###reduce: 3.1e-05###compl: 1e-05###trim: 1.3e-05###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000282;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06591-5.mata;0;mataparsing: 0.003818###reduce: 0.000523###compl: 0.000312###trim: 3.8e-05###emptiness_check: 2.2e-05###emptiness_check_result: false###overall: 0.005284;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-3.mata;0;mataparsing: 0.002457###reduce: 0.000549###compl: 0.000259###trim: 1.4e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.003833;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06657-6.mata;0;mataparsing: 0.001658###reduce: 0.000278###compl: 0.000187###trim: 2.8e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.002498;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06712-1.mata;0;mataparsing: 0.000196###reduce: 0.000166###compl: 6.5e-05###trim: 1.3e-05###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000618;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06895-1.mata;0;mataparsing: 0.000176###reduce: 0.000172###compl: 2.9e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00052;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06895-2.mata;0;mataparsing: 0.000246###reduce: 0.000234###compl: 0.000125###trim: 1.8e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.000852;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06529-60.mata;0;mataparsing: 0.012955###reduce: 0.002377###compl: 0.000736###trim: 4.2e-05###emptiness_check: 6.4e-05###emptiness_check_result: false###overall: 0.017898;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06895-3.mata;0;mataparsing: 0.000139###reduce: 0.000169###compl: 6.9e-05###trim: 1e-05###emptiness_check: 7e-06###emptiness_check_result: false###overall: 0.000546;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-1.mata;0;mataparsing: 5e-05###reduce: 2.2e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000163;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-4.mata;0;mataparsing: 6.5e-05###reduce: 5.4e-05###compl: 1e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000251;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-6.mata;0;mataparsing: 6.7e-05###reduce: 3.3e-05###compl: 1.1e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00024;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-2.mata;0;mataparsing: 0.003268###reduce: 0.000655###compl: 0.000347###trim: 2.5e-05###emptiness_check: 2.7e-05###emptiness_check_result: false###overall: 0.00504;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-5.mata;0;mataparsing: 0.00198###reduce: 0.000347###compl: 0.00022###trim: 2.5e-05###emptiness_check: 2.5e-05###emptiness_check_result: false###overall: 0.003156;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-7.mata;0;mataparsing: 0.001761###reduce: 0.00049###compl: 0.000338###trim: 2.5e-05###emptiness_check: 2.2e-05###emptiness_check_result: false###overall: 0.003199;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07103-1.mata;0;mataparsing: 0.000196###reduce: 7e-05###compl: 2.2e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000421;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07046-1.mata;0;mataparsing: 0.002038###reduce: 0.00119###compl: 0.000407###trim: 3.2e-05###emptiness_check: 5.3e-05###emptiness_check_result: false###overall: 0.00432;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance06968-3.mata;0;mataparsing: 0.004511###reduce: 0.001465###compl: 0.000572###trim: 3.8e-05###emptiness_check: 3.6e-05###emptiness_check_result: false###overall: 0.007539;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07154-1.mata;0;mataparsing: 0.00051###reduce: 0.000287###compl: 9e-05###trim: 8e-06###emptiness_check: 1.7e-05###emptiness_check_result: false###overall: 0.001138;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07154-2.mata;0;mataparsing: 7.8e-05###reduce: 3e-05###compl: 1.8e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000253;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07292-1.mata;0;mataparsing: 0.000219###reduce: 0.000333###compl: 0.000235###trim: 2.9e-05###emptiness_check: 1.9e-05###emptiness_check_result: false###overall: 0.00107;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07338-1.mata;0;mataparsing: 8e-05###reduce: 2.8e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000214;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07046-2.mata;0;mataparsing: 0.003295###reduce: 0.001761###compl: 0.000532###trim: 8e-05###emptiness_check: 5.5e-05###emptiness_check_result: false###overall: 0.006605;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07380-2.mata;0;mataparsing: 7.2e-05###reduce: 3e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000235;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07416-1.mata;0;mataparsing: 0.000282###reduce: 0.000122###compl: 4e-05###trim: 6e-06###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.000595;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07504-2.mata;0;mataparsing: 7e-05###reduce: 3.3e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000232;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07553-1.mata;0;mataparsing: 5e-05###reduce: 2.2e-05###compl: 6e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000149;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07504-3.mata;0;mataparsing: 0.00198###reduce: 0.00034###compl: 0.000134###trim: 1.8e-05###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.002874;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07553-3.mata;0;mataparsing: 0.000754###reduce: 0.000496###compl: 8.6e-05###trim: 9e-06###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.001626;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07553-2.mata;0;mataparsing: 0.001839###reduce: 0.000404###compl: 0.0002###trim: 1.8e-05###emptiness_check: 1.6e-05###emptiness_check_result: false###overall: 0.00297;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07787-1.mata;0;mataparsing: 0.000947###reduce: 0.000437###compl: 0.000273###trim: 2.4e-05###emptiness_check: 2e-05###emptiness_check_result: false###overall: 0.002108;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07380-3.mata;0;mataparsing: 0.006424###reduce: 0.003597###compl: 0.00032###trim: 2.3e-05###emptiness_check: 2.6e-05###emptiness_check_result: false###overall: 0.011241;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07787-2.mata;0;mataparsing: 0.00046###reduce: 0.000686###compl: 0.00028###trim: 2.7e-05###emptiness_check: 2.1e-05###emptiness_check_result: false###overall: 0.001724;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07504-1.mata;0;mataparsing: 0.008188###reduce: 0.001249###compl: 0.000518###trim: 3.1e-05###emptiness_check: 3.6e-05###emptiness_check_result: false###overall: 0.010982;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07380-1.mata;0;mataparsing: 0.007593###reduce: 0.001775###compl: 0.000972###trim: 5.8e-05###emptiness_check: 8.6e-05###emptiness_check_result: false###overall: 0.01239;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-1.mata;0;mataparsing: 0.000498###reduce: 0.000355###compl: 0.000311###trim: 2.3e-05###emptiness_check: 3e-05###emptiness_check_result: false###overall: 0.001572;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-2.mata;0;mataparsing: 0.0003###reduce: 9.4e-05###compl: 3.1e-05###trim: 4e-06###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.000539;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-3.mata;0;mataparsing: 0.000255###reduce: 0.000241###compl: 0.000108###trim: 1.4e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.000798;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07912-2.mata;0;mataparsing: 0.000185###reduce: 0.000176###compl: 8.5e-05###trim: 1.1e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.000609;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07912-1.mata;0;mataparsing: 7.4e-05###reduce: 4.7e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000239;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07857-1.mata;0;mataparsing: 0.000747###reduce: 0.000312###compl: 0.000142###trim: 1.4e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.00145;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-1.mata;0;mataparsing: 0.000139###reduce: 4.9e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000344;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07945-1.mata;0;mataparsing: 0.000133###reduce: 7.3e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00036;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-10.mata;0;mataparsing: 0.000209###reduce: 7.3e-05###compl: 3.4e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000468;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-11.mata;0;mataparsing: 0.000187###reduce: 7.6e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000429;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-12.mata;0;mataparsing: 8.6e-05###reduce: 2.9e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000218;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-14.mata;0;mataparsing: 0.00011###reduce: 6.2e-05###compl: 2.4e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000295;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-13.mata;0;mataparsing: 0.00014###reduce: 5.6e-05###compl: 1.5e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000321;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-16.mata;0;mataparsing: 7.6e-05###reduce: 3.8e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000231;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-15.mata;0;mataparsing: 0.000222###reduce: 6.5e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000437;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-17.mata;0;mataparsing: 6.4e-05###reduce: 3.1e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00019;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-2.mata;0;mataparsing: 0.000136###reduce: 6.6e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000365;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-3.mata;0;mataparsing: 0.000116###reduce: 4.3e-05###compl: 2.5e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000278;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-4.mata;0;mataparsing: 8.8e-05###reduce: 3.2e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000238;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-5.mata;0;mataparsing: 0.000137###reduce: 5.4e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000325;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-6.mata;0;mataparsing: 0.00013###reduce: 5.4e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000327;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-7.mata;0;mataparsing: 0.000125###reduce: 4e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000262;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-8.mata;0;mataparsing: 4.8e-05###reduce: 2.3e-05###compl: 6e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000164;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-9.mata;0;mataparsing: 0.000123###reduce: 4.7e-05###compl: 1.4e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000309;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-2.mata;0;mataparsing: 7.5e-05###reduce: 2e-05###compl: 5e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000166;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-1.mata;0;mataparsing: 6.7e-05###reduce: 3.6e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000207;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-4.mata;0;mataparsing: 5.1e-05###reduce: 2.2e-05###compl: 7e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000165;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08075-3.mata;0;mataparsing: 8.7e-05###reduce: 3.3e-05###compl: 1.1e-05###trim: 1e-05###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000274;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08167-1.mata;0;mataparsing: 8.8e-05###reduce: 3.1e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000234;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08188-1.mata;0;mataparsing: 0.000103###reduce: 4e-05###compl: 1.4e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000245;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08188-3.mata;0;mataparsing: 0.000338###reduce: 0.000123###compl: 4.1e-05###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00064;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08188-2.mata;0;mataparsing: 0.000436###reduce: 0.000234###compl: 0.000148###trim: 1.5e-05###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.001109;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08167-2.mata;0;mataparsing: 0.001767###reduce: 0.000385###compl: 0.000122###trim: 1e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.002726;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-1.mata;0;mataparsing: 9.2e-05###reduce: 2.4e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 0###emptiness_check_result: false###overall: 0.000201;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-10.mata;0;mataparsing: 9.1e-05###reduce: 4.4e-05###compl: 1.2e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000265;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-3.mata;0;mataparsing: 5e-05###reduce: 3.2e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00018;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-2.mata;0;mataparsing: 7e-05###reduce: 2.9e-05###compl: 1.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000221;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-4.mata;0;mataparsing: 9.5e-05###reduce: 3.2e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000232;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-5.mata;0;mataparsing: 5.1e-05###reduce: 2.1e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000147;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-6.mata;0;mataparsing: 5.9e-05###reduce: 2e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000153;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08022-18.mata;0;mataparsing: 0.013414###reduce: 0.002314###compl: 0.001241###trim: 9e-05###emptiness_check: 5.4e-05###emptiness_check_result: false###overall: 0.019423;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-8.mata;0;mataparsing: 7.8e-05###reduce: 2.2e-05###compl: 7e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000192;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-7.mata;0;mataparsing: 4.9e-05###reduce: 2.1e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000146;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08219-9.mata;0;mataparsing: 7.9e-05###reduce: 3.2e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000222;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-2.mata;0;mataparsing: 8.6e-05###reduce: 5.3e-05###compl: 2e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000241;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-3.mata;0;mataparsing: 0.000365###reduce: 0.000304###compl: 0.000175###trim: 2.1e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.001142;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance07800-4.mata;0;mataparsing: 0.018183###reduce: 0.003301###compl: 0.001345###trim: 7.6e-05###emptiness_check: 5.3e-05###emptiness_check_result: false###overall: 0.026063;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08472-1.mata;0;mataparsing: 0.000213###reduce: 0.000218###compl: 0.00011###trim: 2.7e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.000759;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-4.mata;0;mataparsing: 0.000315###reduce: 9.8e-05###compl: 3.4e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000628;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08425-1.mata;0;mataparsing: 0.001102###reduce: 0.000446###compl: 0.000162###trim: 1.2e-05###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.002103;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08537-1.mata;0;mataparsing: 0.000317###reduce: 0.000206###compl: 0.00015###trim: 2.4e-05###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.00094;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-1.mata;0;mataparsing: 0.000272###reduce: 0.000413###compl: 0.000239###trim: 2.6e-05###emptiness_check: 1.7e-05###emptiness_check_result: false###overall: 0.001214;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-2.mata;0;mataparsing: 6.8e-05###reduce: 3.1e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000211;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-3.mata;0;mataparsing: 0.000127###reduce: 5.2e-05###compl: 1.7e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000326;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-5.mata;0;mataparsing: 0.000225###reduce: 6.6e-05###compl: 2.6e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000452;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-4.mata;0;mataparsing: 0.000184###reduce: 3.9e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000354;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08537-2.mata;0;mataparsing: 0.000322###reduce: 0.000389###compl: 0.000189###trim: 1.6e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.001146;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-6.mata;0;mataparsing: 8.9e-05###reduce: 3.1e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000251;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-1.mata;0;mataparsing: 4.9e-05###reduce: 2.1e-05###compl: 7e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000159;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-10.mata;0;mataparsing: 0.000194###reduce: 7.5e-05###compl: 2.8e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000425;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-12.mata;0;mataparsing: 6.5e-05###reduce: 3.2e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000216;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-11.mata;0;mataparsing: 0.0002###reduce: 7.3e-05###compl: 2.9e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000474;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-13.mata;0;mataparsing: 0.000114###reduce: 5e-05###compl: 1.7e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000299;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-14.mata;0;mataparsing: 0.000177###reduce: 6.9e-05###compl: 3.3e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000416;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-16.mata;0;mataparsing: 7.1e-05###reduce: 2.8e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00022;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-7.mata;0;mataparsing: 0.004944###reduce: 0.000887###compl: 0.000497###trim: 3.3e-05###emptiness_check: 3.6e-05###emptiness_check_result: false###overall: 0.00717;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-18.mata;0;mataparsing: 0.000198###reduce: 7.1e-05###compl: 2.6e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000447;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-15.mata;0;mataparsing: 0.000234###reduce: 6.7e-05###compl: 2.7e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000461;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-17.mata;0;mataparsing: 0.000127###reduce: 5.5e-05###compl: 1.5e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00031;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-19.mata;0;mataparsing: 0.000201###reduce: 8.9e-05###compl: 2.6e-05###trim: 5e-06###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.000472;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-20.mata;0;mataparsing: 7.8e-05###reduce: 3.1e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000215;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-21.mata;0;mataparsing: 0.000117###reduce: 9.2e-05###compl: 1.5e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000362;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-22.mata;0;mataparsing: 0.000207###reduce: 6.9e-05###compl: 2.9e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000427;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-23.mata;0;mataparsing: 0.000218###reduce: 6.9e-05###compl: 2.9e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000502;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-24.mata;0;mataparsing: 7.4e-05###reduce: 3.1e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000211;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-3.mata;0;mataparsing: 7e-05###reduce: 2.7e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.0002;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-2.mata;0;mataparsing: 0.002391###reduce: 0.00068###compl: 0.000273###trim: 2.8e-05###emptiness_check: 3.6e-05###emptiness_check_result: false###overall: 0.004035;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-5.mata;0;mataparsing: 0.000128###reduce: 5.2e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000305;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-6.mata;0;mataparsing: 0.000194###reduce: 6.6e-05###compl: 2.6e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000414;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-7.mata;0;mataparsing: 0.000209###reduce: 6.5e-05###compl: 2.6e-05###trim: 4e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000443;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-8.mata;0;mataparsing: 7.7e-05###reduce: 2.2e-05###compl: 2.9e-05###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000239;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-9.mata;0;mataparsing: 0.000123###reduce: 5.5e-05###compl: 1.7e-05###trim: 1.5e-05###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000345;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08976-1.mata;0;mataparsing: 9.3e-05###reduce: 0.000131###compl: 7.6e-05###trim: 1.2e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.000476;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08976-2.mata;0;mataparsing: 0.00019###reduce: 0.000175###compl: 7.5e-05###trim: 9e-06###emptiness_check: 7e-06###emptiness_check_result: false###overall: 0.00058;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09058-1.mata;0;mataparsing: 5.1e-05###reduce: 2.7e-05###compl: 1.4e-05###trim: 1.3e-05###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000178;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08921-4.mata;0;mataparsing: 0.003382###reduce: 0.000641###compl: 0.000332###trim: 3e-05###emptiness_check: 3.8e-05###emptiness_check_result: false###overall: 0.005093;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09058-3.mata;0;mataparsing: 0.000185###reduce: 0.000416###compl: 0.000245###trim: 3e-05###emptiness_check: 1.9e-05###emptiness_check_result: false###overall: 0.00114;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09234-2.mata;0;mataparsing: 4.7e-05###reduce: 2.3e-05###compl: 7e-06###trim: 1.4e-05###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000175;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09263-1.mata;0;mataparsing: 0.000174###reduce: 0.0002###compl: 0.00011###trim: 1.4e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.000656;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09058-2.mata;0;mataparsing: 0.000396###reduce: 0.000452###compl: 0.000314###trim: 4.3e-05###emptiness_check: 2.3e-05###emptiness_check_result: false###overall: 0.001545;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-2.mata;0;mataparsing: 5e-05###reduce: 2.5e-05###compl: 7e-06###trim: 5e-06###emptiness_check: 0###emptiness_check_result: false###overall: 0.000156;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-1.mata;0;mataparsing: 0.00029###reduce: 0.000259###compl: 0.000124###trim: 2.5e-05###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.000932;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09664-1.mata;0;mataparsing: 0.000343###reduce: 0.000174###compl: 5.4e-05###trim: 7e-06###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000747;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09234-1.mata;0;mataparsing: 0.004039###reduce: 0.001853###compl: 0.000318###trim: 1.9e-05###emptiness_check: 1.8e-05###emptiness_check_result: false###overall: 0.00714;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-3.mata;0;mataparsing: 0.002814###reduce: 0.000618###compl: 0.000323###trim: 2.3e-05###emptiness_check: 2.3e-05###emptiness_check_result: false###overall: 0.004449;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09633-1.mata;0;mataparsing: 0.000561###reduce: 0.000887###compl: 0.000604###trim: 7.4e-05###emptiness_check: 4.3e-05###emptiness_check_result: false###overall: 0.002718;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09776-1.mata;0;mataparsing: 0.000176###reduce: 0.000133###compl: 7.7e-05###trim: 1.5e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.000591;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09799-1.mata;0;mataparsing: 0.000731###reduce: 0.000296###compl: 0.000171###trim: 1.8e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.00151;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance08649-8.mata;0;mataparsing: 0.018865###reduce: 0.006851###compl: 0.000865###trim: 6.2e-05###emptiness_check: 6.4e-05###emptiness_check_result: false###overall: 0.030158;;0.02
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10015-1.mata;0;mataparsing: 0.000368###reduce: 0.000187###compl: 0.0001###trim: 1.3e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.000877;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09849-1.mata;0;mataparsing: 0.000231###reduce: 0.000563###compl: 0.000182###trim: 2.5e-05###emptiness_check: 1.7e-05###emptiness_check_result: false###overall: 0.001288;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10042-1.mata;0;mataparsing: 0.000193###reduce: 0.000176###compl: 9.7e-05###trim: 1.7e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.000683;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-2.mata;0;mataparsing: 0.000104###reduce: 3e-05###compl: 1e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00027;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-1.mata;0;mataparsing: 0.001011###reduce: 0.000375###compl: 8.2e-05###trim: 9e-06###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.001704;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-4.mata;0;mataparsing: 0.000397###reduce: 0.000168###compl: 7.4e-05###trim: 1e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.000811;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09849-2.mata;0;mataparsing: 0.004448###reduce: 0.001055###compl: 0.000506###trim: 4e-05###emptiness_check: 3.7e-05###emptiness_check_result: false###overall: 0.007072;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10279-1.mata;0;mataparsing: 9.3e-05###reduce: 7.6e-05###compl: 3.1e-05###trim: 5e-06###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.000307;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance09326-4.mata;0;mataparsing: 0.008658###reduce: 0.002091###compl: 0.000838###trim: 4.5e-05###emptiness_check: 7.2e-05###emptiness_check_result: false###overall: 0.013571;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-1.mata;0;mataparsing: 7.3e-05###reduce: 2.3e-05###compl: 7e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000197;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10279-2.mata;0;mataparsing: 0.000133###reduce: 0.000187###compl: 0.000108###trim: 1.9e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.000647;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10107-3.mata;0;mataparsing: 0.003603###reduce: 0.000684###compl: 0.000288###trim: 2e-05###emptiness_check: 3.1e-05###emptiness_check_result: false###overall: 0.005486;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-3.mata;0;mataparsing: 0.000182###reduce: 5.7e-05###compl: 1.6e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000381;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-4.mata;0;mataparsing: 0.000149###reduce: 4.1e-05###compl: 1.6e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000293;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-2.mata;0;mataparsing: 7.3e-05###reduce: 3.1e-05###compl: 1e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000192;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-5.mata;0;mataparsing: 5.9e-05###reduce: 3.2e-05###compl: 9e-06###trim: 8e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000199;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10384-2.mata;0;mataparsing: 0.000192###reduce: 0.000161###compl: 0.000113###trim: 1.6e-05###emptiness_check: 7e-06###emptiness_check_result: false###overall: 0.000682;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10384-1.mata;0;mataparsing: 0.0012###reduce: 0.000311###compl: 9.6e-05###trim: 1.1e-05###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.001914;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10412-1.mata;0;mataparsing: 0.00018###reduce: 0.000224###compl: 0.000133###trim: 1.7e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.000756;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10296-6.mata;0;mataparsing: 0.003417###reduce: 0.000871###compl: 0.00024###trim: 1.8e-05###emptiness_check: 2e-05###emptiness_check_result: false###overall: 0.00513;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10412-2.mata;0;mataparsing: 0.000128###reduce: 5.6e-05###compl: 2.1e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000361;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10629-1.mata;0;mataparsing: 0.000136###reduce: 0.000192###compl: 5.7e-05###trim: 1.2e-05###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.000542;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10783-1.mata;0;mataparsing: 4.8e-05###reduce: 2.1e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000146;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10691-1.mata;0;mataparsing: 0.000328###reduce: 0.000321###compl: 0.000175###trim: 2.2e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.001157;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10783-2.mata;0;mataparsing: 7.2e-05###reduce: 3.4e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000218;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10804-1.mata;0;mataparsing: 0.000316###reduce: 0.000412###compl: 0.000286###trim: 3.2e-05###emptiness_check: 2.1e-05###emptiness_check_result: false###overall: 0.001306;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10804-2.mata;0;mataparsing: 0.000179###reduce: 0.000158###compl: 7.9e-05###trim: 1.2e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.000617;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-1.mata;0;mataparsing: 4.9e-05###reduce: 3.5e-05###compl: 6e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000172;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11038-1.mata;0;mataparsing: 0.000299###reduce: 0.000393###compl: 0.000224###trim: 3.6e-05###emptiness_check: 1.6e-05###emptiness_check_result: false###overall: 0.001223;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-2.mata;0;mataparsing: 0.002379###reduce: 0.000662###compl: 0.000323###trim: 2.5e-05###emptiness_check: 2.5e-05###emptiness_check_result: false###overall: 0.004086;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-4.mata;0;mataparsing: 0.000317###reduce: 0.000414###compl: 0.00027###trim: 4e-05###emptiness_check: 1.9e-05###emptiness_check_result: false###overall: 0.001343;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10557-1.mata;0;mataparsing: 0.005337###reduce: 0.00145###compl: 0.001062###trim: 8.6e-05###emptiness_check: 2e-05###emptiness_check_result: false###overall: 0.009314;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11038-2.mata;0;mataparsing: 0.000356###reduce: 0.000477###compl: 0.000278###trim: 3.1e-05###emptiness_check: 2.2e-05###emptiness_check_result: false###overall: 0.001486;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance10941-3.mata;0;mataparsing: 0.001313###reduce: 0.000597###compl: 0.000123###trim: 1.7e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.002452;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-3.mata;0;mataparsing: 4.9e-05###reduce: 2e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000145;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-1.mata;0;mataparsing: 8e-05###reduce: 3.2e-05###compl: 1e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000265;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11080-1.mata;0;mataparsing: 0.001366###reduce: 0.000806###compl: 0.000156###trim: 9e-06###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.002692;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11254-1.mata;0;mataparsing: 0.000622###reduce: 0.000269###compl: 0.000156###trim: 1.5e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.001349;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-1.mata;0;mataparsing: 4.9e-05###reduce: 3e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000172;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-4.mata;0;mataparsing: 0.001996###reduce: 0.000459###compl: 0.00021###trim: 1.8e-05###emptiness_check: 1.6e-05###emptiness_check_result: false###overall: 0.003222;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-3.mata;0;mataparsing: 6.8e-05###reduce: 3.3e-05###compl: 9e-06###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00021;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11192-2.mata;0;mataparsing: 0.000703###reduce: 0.000322###compl: 0.000143###trim: 1.3e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.001477;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-1.mata;0;mataparsing: 6.3e-05###reduce: 5.1e-05###compl: 1.8e-05###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000229;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-2.mata;0;mataparsing: 0.003108###reduce: 0.000819###compl: 0.000426###trim: 3e-05###emptiness_check: 3.2e-05###emptiness_check_result: false###overall: 0.005247;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-1.mata;0;mataparsing: 4.8e-05###reduce: 2e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 0###emptiness_check_result: false###overall: 0.000143;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-2.mata;0;mataparsing: 0.000251###reduce: 0.000115###compl: 5e-05###trim: 8e-06###emptiness_check: 4e-06###emptiness_check_result: false###overall: 0.000572;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-3.mata;0;mataparsing: 0.000472###reduce: 0.000634###compl: 0.000433###trim: 5.9e-05###emptiness_check: 5e-05###emptiness_check_result: false###overall: 0.002072;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-4.mata;0;mataparsing: 0.000157###reduce: 6.5e-05###compl: 1.9e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000338;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-3.mata;0;mataparsing: 0.000453###reduce: 0.000541###compl: 0.0004###trim: 3.9e-05###emptiness_check: 2.7e-05###emptiness_check_result: false###overall: 0.001814;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11653-1.mata;0;mataparsing: 0.00073###reduce: 0.000382###compl: 0.000122###trim: 1.3e-05###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.001533;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11346-4.mata;0;mataparsing: 0.004103###reduce: 0.000817###compl: 0.000448###trim: 2.9e-05###emptiness_check: 3.1e-05###emptiness_check_result: false###overall: 0.006279;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11653-2.mata;0;mataparsing: 0.000241###reduce: 0.000251###compl: 0.000176###trim: 2.9e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.000998;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-1.mata;0;mataparsing: 6.5e-05###reduce: 2.1e-05###compl: 1e-05###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000176;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11487-2.mata;0;mataparsing: 0.00445###reduce: 0.000586###compl: 0.000323###trim: 3e-05###emptiness_check: 2.2e-05###emptiness_check_result: false###overall: 0.006129;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-3.mata;0;mataparsing: 0.000414###reduce: 0.000209###compl: 7.2e-05###trim: 1e-05###emptiness_check: 4e-06###emptiness_check_result: false###overall: 0.000898;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-4.mata;0;mataparsing: 0.000316###reduce: 0.000575###compl: 0.000335###trim: 3.7e-05###emptiness_check: 2.4e-05###emptiness_check_result: false###overall: 0.001598;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-5.mata;0;mataparsing: 0.000129###reduce: 2.7e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000277;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-6.mata;0;mataparsing: 0.000103###reduce: 2.2e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 0###emptiness_check_result: false###overall: 0.000214;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11468-4.mata;0;mataparsing: 0.007125###reduce: 0.001586###compl: 0.000954###trim: 4.2e-05###emptiness_check: 4.9e-05###emptiness_check_result: false###overall: 0.011448;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-2.mata;0;mataparsing: 0.000145###reduce: 0.000118###compl: 5.6e-05###trim: 1.2e-05###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000475;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-3.mata;0;mataparsing: 0.0003###reduce: 0.000254###compl: 0.00013###trim: 1.6e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.000931;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11716-2.mata;0;mataparsing: 0.005189###reduce: 0.000927###compl: 0.000505###trim: 3.4e-05###emptiness_check: 3.7e-05###emptiness_check_result: false###overall: 0.007775;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11983-1.mata;0;mataparsing: 0.000309###reduce: 0.000435###compl: 0.000262###trim: 3.1e-05###emptiness_check: 4e-05###emptiness_check_result: false###overall: 0.00144;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11983-2.mata;0;mataparsing: 0.000373###reduce: 0.000422###compl: 0.00028###trim: 3.1e-05###emptiness_check: 3.2e-05###emptiness_check_result: false###overall: 0.001447;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12028-1.mata;0;mataparsing: 0.00066###reduce: 0.000753###compl: 0.000373###trim: 3.7e-05###emptiness_check: 2.9e-05###emptiness_check_result: false###overall: 0.002266;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12028-2.mata;0;mataparsing: 0.001146###reduce: 0.000635###compl: 0.000119###trim: 1.2e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.002232;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12090-1.mata;0;mataparsing: 7.4e-05###reduce: 2.8e-05###compl: 8e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.0002;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12028-3.mata;0;mataparsing: 0.000681###reduce: 0.000236###compl: 0.000184###trim: 1.5e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.001392;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-1.mata;0;mataparsing: 7.6e-05###reduce: 3.4e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000221;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-2.mata;0;mataparsing: 7.4e-05###reduce: 3.2e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000216;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-5.mata;0;mataparsing: 7.4e-05###reduce: 3.1e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000232;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-4.mata;0;mataparsing: 0.001412###reduce: 0.000671###compl: 0.000186###trim: 1.5e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.002655;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12213-1.mata;0;mataparsing: 0.000319###reduce: 0.000446###compl: 0.000274###trim: 3.1e-05###emptiness_check: 2e-05###emptiness_check_result: false###overall: 0.001381;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12244-1.mata;0;mataparsing: 0.000484###reduce: 0.00028###compl: 6e-05###trim: 7e-06###emptiness_check: 7e-06###emptiness_check_result: false###overall: 0.00101;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-1.mata;0;mataparsing: 9e-05###reduce: 7.6e-05###compl: 3.9e-05###trim: 1e-05###emptiness_check: 4e-06###emptiness_check_result: false###overall: 0.000323;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-4.mata;0;mataparsing: 0.01003###reduce: 0.002324###compl: 0.001143###trim: 7.6e-05###emptiness_check: 7.6e-05###emptiness_check_result: false###overall: 0.015854;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-2.mata;0;mataparsing: 0.000103###reduce: 3.8e-05###compl: 1.2e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000263;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-3.mata;0;mataparsing: 7.3e-05###reduce: 3.2e-05###compl: 1.1e-05###trim: 2.5e-05###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000291;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12244-2.mata;0;mataparsing: 0.003407###reduce: 0.0022###compl: 0.000458###trim: 3.6e-05###emptiness_check: 3.2e-05###emptiness_check_result: false###overall: 0.006864;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12301-4.mata;0;mataparsing: 0.000817###reduce: 0.000212###compl: 7.1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.001377;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-1.mata;0;mataparsing: 0.00063###reduce: 0.00033###compl: 5.7e-05###trim: 7e-06###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.001231;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-2.mata;0;mataparsing: 8.9e-05###reduce: 3.8e-05###compl: 1.4e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000283;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12478-1.mata;0;mataparsing: 0.000219###reduce: 0.000152###compl: 7e-05###trim: 1.4e-05###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000651;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-4.mata;0;mataparsing: 0.000536###reduce: 0.000825###compl: 0.000571###trim: 6.5e-05###emptiness_check: 6.4e-05###emptiness_check_result: false###overall: 0.002623;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12478-2.mata;0;mataparsing: 0.000161###reduce: 0.000178###compl: 0.000103###trim: 1.3e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.000621;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-3.mata;0;mataparsing: 0.016851###reduce: 0.004078###compl: 0.00155###trim: 7.6e-05###emptiness_check: 9.6e-05###emptiness_check_result: false###overall: 0.025432;;0.02
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12356-3.mata;0;mataparsing: 0.004849###reduce: 0.001105###compl: 0.000315###trim: 2.5e-05###emptiness_check: 2.8e-05###emptiness_check_result: false###overall: 0.007279;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12478-3.mata;0;mataparsing: 0.000588###reduce: 0.000321###compl: 0.000202###trim: 1.8e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.001425;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-1.mata;0;mataparsing: 7.7e-05###reduce: 3.3e-05###compl: 1e-05###trim: 3e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000193;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-4.mata;0;mataparsing: 4.8e-05###reduce: 2.2e-05###compl: 6e-06###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000149;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-2.mata;0;mataparsing: 0.000117###reduce: 5e-05###compl: 1.5e-05###trim: 1.1e-05###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000327;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance11829-1.mata;0;mataparsing: 0.02106###reduce: 0.012476###compl: 0.002421###trim: 0.000102###emptiness_check: 0.000171###emptiness_check_result: false###overall: 0.03916;;0.03
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12182-6.mata;0;mataparsing: 0.012273###reduce: 0.009091###compl: 0.002933###trim: 0.000393###emptiness_check: 0.000221###emptiness_check_result: false###overall: 0.028108;;0.02
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12614-1.mata;0;mataparsing: 0.000713###reduce: 0.000399###compl: 0.00012###trim: 1.3e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.001496;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-3.mata;0;mataparsing: 0.003655###reduce: 0.000996###compl: 0.000197###trim: 2.2e-05###emptiness_check: 1.7e-05###emptiness_check_result: false###overall: 0.00573;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12643-1.mata;0;mataparsing: 0.000421###reduce: 0.000493###compl: 0.000285###trim: 4e-05###emptiness_check: 2.3e-05###emptiness_check_result: false###overall: 0.001558;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12585-5.mata;0;mataparsing: 0.002849###reduce: 0.000514###compl: 0.000255###trim: 1.3e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.004269;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12706-1.mata;0;mataparsing: 0.000602###reduce: 0.000374###compl: 0.000136###trim: 1e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.001367;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12751-1.mata;0;mataparsing: 0.000194###reduce: 0.000194###compl: 0.000114###trim: 1.5e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.000734;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-2.mata;0;mataparsing: 5.3e-05###reduce: 2.9e-05###compl: 1.7e-05###trim: 1.3e-05###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000215;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-1.mata;0;mataparsing: 0.00014###reduce: 0.000113###compl: 5.3e-05###trim: 9e-06###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000475;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-3.mata;0;mataparsing: 9.9e-05###reduce: 3.3e-05###compl: 1e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000261;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13005-1.mata;0;mataparsing: 0.00029###reduce: 0.000261###compl: 0.000159###trim: 2e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.00097;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-3.mata;0;mataparsing: 0.004676###reduce: 0.000837###compl: 0.00051###trim: 3.3e-05###emptiness_check: 3.3e-05###emptiness_check_result: false###overall: 0.006982;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-4.mata;0;mataparsing: 0.001446###reduce: 0.00035###compl: 0.000167###trim: 1.2e-05###emptiness_check: 1.6e-05###emptiness_check_result: false###overall: 0.002386;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-1.mata;0;mataparsing: 0.00564###reduce: 0.00225###compl: 0.000718###trim: 3.1e-05###emptiness_check: 3.2e-05###emptiness_check_result: false###overall: 0.00975;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13117-1.mata;0;mataparsing: 6.9e-05###reduce: 3e-05###compl: 1.2e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000212;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13052-1.mata;0;mataparsing: 0.000116###reduce: 0.000105###compl: 4.6e-05###trim: 1e-05###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.000425;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13117-2.mata;0;mataparsing: 0.000335###reduce: 0.000112###compl: 5.4e-05###trim: 6e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000728;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13140-1.mata;0;mataparsing: 0.001211###reduce: 0.000804###compl: 0.000603###trim: 6.6e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.003355;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-1.mata;0;mataparsing: 0.000174###reduce: 0.000125###compl: 6.3e-05###trim: 1.2e-05###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.000544;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13140-2.mata;0;mataparsing: 0.000798###reduce: 0.000216###compl: 5.6e-05###trim: 7e-06###emptiness_check: 3e-06###emptiness_check_result: false###overall: 0.001255;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-2.mata;0;mataparsing: 0.001461###reduce: 0.000985###compl: 0.000256###trim: 2.2e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.003297;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13394-1.mata;0;mataparsing: 8.5e-05###reduce: 3.3e-05###compl: 1.1e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000264;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-3.mata;0;mataparsing: 0.00154###reduce: 0.00045###compl: 0.00014###trim: 1.4e-05###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.00246;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13269-4.mata;0;mataparsing: 0.000661###reduce: 0.000685###compl: 0.000415###trim: 4.9e-05###emptiness_check: 2.9e-05###emptiness_check_result: false###overall: 0.002188;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13455-2.mata;0;mataparsing: 0.000187###reduce: 0.000185###compl: 0.000119###trim: 1.4e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.00071;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13455-3.mata;0;mataparsing: 0.000172###reduce: 7.1e-05###compl: 2.9e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000394;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13510-1.mata;0;mataparsing: 5e-05###reduce: 2.9e-05###compl: 4.1e-05###trim: 1e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000191;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13455-1.mata;0;mataparsing: 0.003368###reduce: 0.001417###compl: 0.000631###trim: 4.5e-05###emptiness_check: 4.2e-05###emptiness_check_result: false###overall: 0.006604;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13547-2.mata;0;mataparsing: 0.000426###reduce: 0.000174###compl: 5.4e-05###trim: 7e-06###emptiness_check: 5e-06###emptiness_check_result: false###overall: 0.000825;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-1.mata;0;mataparsing: 7.5e-05###reduce: 2.9e-05###compl: 1.1e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000234;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-2.mata;0;mataparsing: 6.9e-05###reduce: 3.1e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000209;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13547-1.mata;0;mataparsing: 0.002694###reduce: 0.000825###compl: 0.000244###trim: 2.1e-05###emptiness_check: 2.5e-05###emptiness_check_result: false###overall: 0.00424;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-3.mata;0;mataparsing: 0.000472###reduce: 0.000121###compl: 7.6e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000883;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-4.mata;0;mataparsing: 6.6e-05###reduce: 3e-05###compl: 1e-05###trim: 8e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00021;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-6.mata;0;mataparsing: 6.5e-05###reduce: 2.5e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000207;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13681-1.mata;0;mataparsing: 5.1e-05###reduce: 2.3e-05###compl: 7e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.00017;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12839-4.mata;0;mataparsing: 0.013428###reduce: 0.020368###compl: 0.001628###trim: 0.000129###emptiness_check: 0.000103###emptiness_check_result: false###overall: 0.038587;;0.03
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-1.mata;0;mataparsing: 0.000144###reduce: 0.000149###compl: 7e-05###trim: 2.5e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.000567;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-5.mata;0;mataparsing: 0.00438###reduce: 0.000847###compl: 0.000439###trim: 3.2e-05###emptiness_check: 4.3e-05###emptiness_check_result: false###overall: 0.006794;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13639-7.mata;0;mataparsing: 0.004492###reduce: 0.000844###compl: 0.00047###trim: 3.3e-05###emptiness_check: 3.4e-05###emptiness_check_result: false###overall: 0.006776;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance12881-2.mata;0;mataparsing: 0.01387###reduce: 0.025335###compl: 0.001108###trim: 6.8e-05###emptiness_check: 8.3e-05###emptiness_check_result: false###overall: 0.043278;;0.03
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-2.mata;0;mataparsing: 9e-05###reduce: 3.8e-05###compl: 1.1e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000258;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-4.mata;0;mataparsing: 0.000197###reduce: 9.9e-05###compl: 4.2e-05###trim: 5e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000456;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13906-1.mata;0;mataparsing: 0.000233###reduce: 0.000207###compl: 0.000127###trim: 1.8e-05###emptiness_check: 1e-05###emptiness_check_result: false###overall: 0.000799;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-1.mata;0;mataparsing: 6.5e-05###reduce: 3.2e-05###compl: 1.8e-05###trim: 7e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000239;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-2.mata;0;mataparsing: 0.001773###reduce: 0.000354###compl: 0.000154###trim: 1.3e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.00268;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-4.mata;0;mataparsing: 0.000213###reduce: 0.000168###compl: 0.000104###trim: 1.7e-05###emptiness_check: 9e-06###emptiness_check_result: false###overall: 0.000743;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13951-3.mata;0;mataparsing: 0.000367###reduce: 0.000451###compl: 0.000381###trim: 3.6e-05###emptiness_check: 3.5e-05###emptiness_check_result: false###overall: 0.001628;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-1.mata;0;mataparsing: 7.6e-05###reduce: 3.8e-05###compl: 1.1e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000241;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-3.mata;0;mataparsing: 0.000304###reduce: 0.000309###compl: 0.000183###trim: 2.4e-05###emptiness_check: 1.5e-05###emptiness_check_result: false###overall: 0.001088;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-2.mata;0;mataparsing: 0.001315###reduce: 0.000525###compl: 0.000241###trim: 2.1e-05###emptiness_check: 1.8e-05###emptiness_check_result: false###overall: 0.002645;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14001-4.mata;0;mataparsing: 0.001008###reduce: 0.000408###compl: 0.000101###trim: 1.1e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.001813;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14144-1.mata;0;mataparsing: 0.000333###reduce: 0.00046###compl: 0.000282###trim: 3.3e-05###emptiness_check: 2.1e-05###emptiness_check_result: false###overall: 0.001443;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14328-1.mata;0;mataparsing: 0.000802###reduce: 0.000214###compl: 6.4e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.001327;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14328-2.mata;0;mataparsing: 6.5e-05###reduce: 4.1e-05###compl: 8e-06###trim: 5e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000207;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14328-3.mata;0;mataparsing: 0.000342###reduce: 0.000124###compl: 4.2e-05###trim: 6e-06###emptiness_check: 4e-06###emptiness_check_result: false###overall: 0.000655;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14390-1.mata;0;mataparsing: 7.1e-05###reduce: 2.8e-05###compl: 7e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000202;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13814-3.mata;0;mataparsing: 0.015176###reduce: 0.003697###compl: 0.001693###trim: 8.8e-05###emptiness_check: 0.00011###emptiness_check_result: false###overall: 0.023022;;0.02
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14451-3.mata;0;mataparsing: 0.000404###reduce: 0.0002###compl: 8.2e-05###trim: 1.7e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.000881;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14451-2.mata;0;mataparsing: 0.001613###reduce: 0.000692###compl: 0.000258###trim: 2.3e-05###emptiness_check: 2e-05###emptiness_check_result: false###overall: 0.003052;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14685-1.mata;0;mataparsing: 0.000365###reduce: 0.000128###compl: 4.5e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000705;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13843-1.mata;0;mataparsing: 0.016344###reduce: 0.002677###compl: 0.001335###trim: 7.6e-05###emptiness_check: 0.000102###emptiness_check_result: false###overall: 0.023165;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14685-2.mata;0;mataparsing: 0.000754###reduce: 0.000208###compl: 0.000109###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.001294;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14778-1.mata;0;mataparsing: 0.00083###reduce: 0.000327###compl: 5.7e-05###trim: 6e-06###emptiness_check: 1.9e-05###emptiness_check_result: false###overall: 0.001428;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14451-1.mata;0;mataparsing: 0.00626###reduce: 0.00117###compl: 0.000624###trim: 2e-05###emptiness_check: 2.4e-05###emptiness_check_result: false###overall: 0.009329;;0.01
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14902-1.mata;0;mataparsing: 0.000428###reduce: 0.000159###compl: 7.4e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.0009;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15094-1.mata;0;mataparsing: 7.7e-05###reduce: 2.9e-05###compl: 8e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000216;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14847-2.mata;0;mataparsing: 0.001754###reduce: 0.000965###compl: 0.000244###trim: 1.9e-05###emptiness_check: 2.7e-05###emptiness_check_result: false###overall: 0.003431;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14797-1.mata;0;mataparsing: 0.002036###reduce: 0.002417###compl: 0.00016###trim: 1.4e-05###emptiness_check: 1.4e-05###emptiness_check_result: false###overall: 0.005213;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15094-3.mata;0;mataparsing: 0.00033###reduce: 0.000416###compl: 0.000245###trim: 3.2e-05###emptiness_check: 2.1e-05###emptiness_check_result: false###overall: 0.001342;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15169-1.mata;0;mataparsing: 0.000214###reduce: 0.000352###compl: 0.00019###trim: 2.4e-05###emptiness_check: 1.7e-05###emptiness_check_result: false###overall: 0.001002;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15169-2.mata;0;mataparsing: 0.000458###reduce: 0.000342###compl: 0.000191###trim: 2.2e-05###emptiness_check: 1.7e-05###emptiness_check_result: false###overall: 0.001313;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15169-3.mata;0;mataparsing: 0.000245###reduce: 0.000366###compl: 0.000228###trim: 1.8e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.001107;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15186-1.mata;0;mataparsing: 0.000527###reduce: 0.000866###compl: 0.0006###trim: 6.6e-05###emptiness_check: 4.7e-05###emptiness_check_result: false###overall: 0.002653;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15186-2.mata;0;mataparsing: 0.000253###reduce: 0.000252###compl: 0.000138###trim: 1.7e-05###emptiness_check: 1.1e-05###emptiness_check_result: false###overall: 0.000912;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-10.mata;0;mataparsing: 0.000346###reduce: 0.000406###compl: 0.00025###trim: 3.2e-05###emptiness_check: 2e-05###emptiness_check_result: false###overall: 0.001348;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-1.mata;0;mataparsing: 0.003257###reduce: 0.001144###compl: 0.000517###trim: 3.9e-05###emptiness_check: 3.5e-05###emptiness_check_result: false###overall: 0.005669;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-11.mata;0;mataparsing: 0.001223###reduce: 0.00065###compl: 0.000284###trim: 1.8e-05###emptiness_check: 1.9e-05###emptiness_check_result: false###overall: 0.002553;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-2.mata;0;mataparsing: 9.1e-05###reduce: 4.5e-05###compl: 9e-06###trim: 3.8e-05###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000316;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-3.mata;0;mataparsing: 7.3e-05###reduce: 4.3e-05###compl: 8e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000226;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-4.mata;0;mataparsing: 7.1e-05###reduce: 4.8e-05###compl: 2.4e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000266;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-5.mata;0;mataparsing: 8.6e-05###reduce: 2.9e-05###compl: 1.1e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.00028;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance13510-2.mata;0;mataparsing: 0.036186###reduce: 0.028272###compl: 0.002122###trim: 0.000209###emptiness_check: 0.000162###emptiness_check_result: false###overall: 0.074562;;0.07
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-6.mata;0;mataparsing: 9e-05###reduce: 6.1e-05###compl: 1.2e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000291;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-7.mata;0;mataparsing: 8.3e-05###reduce: 3.1e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000229;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-9.mata;0;mataparsing: 8.2e-05###reduce: 3e-05###compl: 1.2e-05###trim: 9e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000236;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15217-8.mata;0;mataparsing: 0.000111###reduce: 4.4e-05###compl: 1e-05###trim: 8e-06###emptiness_check: 2e-06###emptiness_check_result: false###overall: 0.000335;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15240-1.mata;0;mataparsing: 0.000147###reduce: 0.000117###compl: 5.5e-05###trim: 1.1e-05###emptiness_check: 6e-06###emptiness_check_result: false###overall: 0.000462;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15240-2.mata;0;mataparsing: 0.000244###reduce: 0.000416###compl: 0.000328###trim: 3.6e-05###emptiness_check: 2.5e-05###emptiness_check_result: false###overall: 0.001329;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15305-1.mata;0;mataparsing: 0.000262###reduce: 0.000271###compl: 0.000155###trim: 2e-05###emptiness_check: 1.9e-05###emptiness_check_result: false###overall: 0.000951;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15493-1.mata;0;mataparsing: 0.000198###reduce: 0.000159###compl: 7.6e-05###trim: 9e-06###emptiness_check: 1.2e-05###emptiness_check_result: false###overall: 0.000613;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15493-3.mata;0;mataparsing: 0.000144###reduce: 7.2e-05###compl: 3.1e-05###trim: 1.1e-05###emptiness_check: 4e-06###emptiness_check_result: false###overall: 0.000404;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15094-2.mata;0;mataparsing: 0.019413###reduce: 0.003794###compl: 0.001481###trim: 7e-05###emptiness_check: 9.2e-05###emptiness_check_result: false###overall: 0.028607;;0.02
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15493-2.mata;0;mataparsing: 0.000173###reduce: 0.000108###compl: 4.7e-05###trim: 8e-06###emptiness_check: 4e-06###emptiness_check_result: false###overall: 0.000479;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15539-1.mata;0;mataparsing: 0.00017###reduce: 0.000255###compl: 0.000124###trim: 1.6e-05###emptiness_check: 1.3e-05###emptiness_check_result: false###overall: 0.000736;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15539-2.mata;0;mataparsing: 8.4e-05###reduce: 3e-05###compl: 9e-06###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000223;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance14847-1.mata;0;mataparsing: 0.025464###reduce: 0.004425###compl: 0.001982###trim: 0.000108###emptiness_check: 0.000123###emptiness_check_result: false###overall: 0.036395;;0.03
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15647-1.mata;0;mataparsing: 8.3e-05###reduce: 4.4e-05###compl: 1.1e-05###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000254;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15647-2.mata;0;mataparsing: 0.000735###reduce: 0.000357###compl: 7.9e-05###trim: 6e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.001444;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15885-1.mata;0;mataparsing: 0.000326###reduce: 0.000395###compl: 0.000247###trim: 2.9e-05###emptiness_check: 1.8e-05###emptiness_check_result: false###overall: 0.00127;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15885-2.mata;0;mataparsing: 7.8e-05###reduce: 3.3e-05###compl: 9e-06###trim: 7e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000218;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15755-1.mata;0;mataparsing: 0.000433###reduce: 0.000431###compl: 0.000271###trim: 3.2e-05###emptiness_check: 2.8e-05###emptiness_check_result: false###overall: 0.00159;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15978-1.mata;0;mataparsing: 0.000112###reduce: 4e-05###compl: 1.5e-05###trim: 4e-06###emptiness_check: 1e-06###emptiness_check_result: false###overall: 0.000253;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15539-3.mata;0;mataparsing: 0.00369###reduce: 0.001033###compl: 0.000194###trim: 1.4e-05###emptiness_check: 8e-06###emptiness_check_result: false###overall: 0.005711;;0.0
+finished;mata-sim;/home/experiments/nfa-bench/benchmarks/z3-noodler/automatark/complement/instance15581-1.mata;0;mataparsing: 0.003681###reduce: 0.000644###compl: 0.000348###trim: 2.8e-05###emptiness_check: 2.7e-05###emptiness_check_result: false###overall: 0.005346;;0.0
