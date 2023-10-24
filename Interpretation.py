@@ -6,6 +6,7 @@ import os
 import csv
 import re
 import progressbar
+import sys
 
 # Data Analysis Packages
 import pandas
@@ -23,8 +24,10 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.simplefilter(action='ignore', category=UserWarning)
 
-FIGS_DIR = "figs"
-DATA_SOURCE = "./data/tacas24"
+CONFIG = {
+    'src': "./data/tacas24",
+    'figs': "figs"
+}
 ERR = 60
 TIMEOUT = 60
 HEADERS = ["bench", "input", "tool", "lang", "op", "time"]
@@ -33,7 +36,7 @@ TIMEOUT_REGEX = re.compile("timeout-(\d+)")
 
 def save_figure(fig, ext=".png"):
     """Stores @p fig at `figs/fig.@ext`"""
-    tgt_dir = os.path.join(DATA_SOURCE, FIGS_DIR)
+    tgt_dir = os.path.join(CONFIG['src'], CONFIG['figs'])
     tgt = os.path.join(tgt_dir, fig + ext)    
     if not os.path.exists(tgt_dir):
         os.makedirs(tgt_dir)
@@ -242,7 +245,7 @@ def compute_fair_overall(df):
         'reduce',
     ]
 
-    for grp, series in df.groupby(['bench', 'input', 'tool']):
+    for grp, series in progressbar.progressbar(df.groupby(['bench', 'input', 'tool'])):
         data['bench'].append(grp[0])
         data['input'].append(grp[1])
         data['tool'].append(grp[2])
@@ -320,7 +323,7 @@ def generate_figure_four(df):
     plt.subplots_adjust(top=0.99, bottom=0.01, hspace=0.4, wspace=0.1)
 
     i = 0
-    for grp in bench_list:
+    for grp in progressbar.progressbar(bench_list):
         series = df[df['bench'] == grp]
         series = series[series['op'] == op]
         k = mosaics[i]
@@ -421,7 +424,7 @@ def generate_figure_five(df):
         plt.subplots_adjust(top=0.99, bottom=0.01, hspace=0.4, wspace=0.20)
 
         i = 0
-        for grp in op_list:
+        for grp in progressbar.progressbar(op_list):
             series = df[df['op'] == grp]
             k = mosaics[i]
 
@@ -483,36 +486,37 @@ def generate_figure_five(df):
         save_figure(f"paper-cactus-plot-per-operation-{sum_name}", ext=".pdf")
 
 
-def to_multicol(value, i, size=3):
+def to_multicol(value, i, size=3, toplain=False):
     cc = 'h' if i % 2 == 0 else 'c'
-    return f'\\multicolumn{{{size}}}{{{cc}}}{{{value}}}'
+    return value if toplain else f'\\multicolumn{{{size}}}{{{cc}}}{{{value}}}'
 
 
-def to_table(df, rows, aggregation, limit_tools, val_size, valid_values=None):
+def to_table(df, rows, aggregation, limit_tools, val_size, valid_values=None, tablefmt='latex_raw'):
     tools = [
         'mata', 'mata-sim', 'awali', 'mona', 'vata',  'automata.net', 'brics', 'automatalib', 'fado', 'automata.py', '(py)mata'
     ]
     tools = [t for t in tools if t in set(df['tool']) and t in limit_tools]
     data = {
-        grp: [grp] + [to_multicol('-', i, val_size) for i in range(len(tools))] for grp in set(df[rows]) 
+        grp: [grp] + [to_multicol('-', i, val_size) if 'latex' in tablefmt else '-' for i in range(len(tools))] for grp in set(df[rows])
         if valid_values == None or grp in valid_values
     }
-    for grp, series in df.groupby([rows, 'tool'] if not isinstance(rows, list) else rows + ['tool']):
+    for grp, series in progressbar.progressbar(df.groupby([rows, 'tool'] if not isinstance(rows, list) else rows + ['tool'])):
         if (valid_values != None and grp[0] not in valid_values) or grp[1] not in tools:
             continue
         vals = aggregation(series['time'])
-        data[grp[0]][tools.index(grp[1]) + 1] = " & ".join(vals)
+        data[grp[0]][tools.index(grp[1]) + 1] = " & ".join(vals) if 'latex' in tablefmt else "|".join(vals).replace("$\\overline{0}$", "~0")
     return tabulate.tabulate(
         sorted(data.values()), headers=[
-            "\\textbf{operation}" if rows == 'op' else "\\textbf{benchmark}"    
+            ("\\textbf{operation}" if rows == 'op' else "\\textbf{benchmark}") if 'latex' in tablefmt else
+            ("operation" if rows == 'op' else "benchmark")
         ] + [
-            to_multicol(f"\\textbf{{{t}}}", i, val_size) for i, t in enumerate(tools)
-        ], tablefmt='latex_raw'
+            to_multicol(f"\\textbf{{{t}}}", i, val_size) if 'latex' in tablefmt else t for i, t in enumerate(tools)
+        ], tablefmt=tablefmt
     )
 
 
 def save_table(table, filename):
-    tgt_dir = os.path.join(DATA_SOURCE, FIGS_DIR)
+    tgt_dir = os.path.join(CONFIG['src'], CONFIG['figs'])
     tgt = os.path.join(tgt_dir, filename)    
     if not os.path.exists(tgt_dir):
         os.makedirs(tgt_dir)
@@ -550,7 +554,7 @@ def stats(series, with_to):
 
     times_with_timeout = [t if (isinstance(t, float) or isinstance(t, int)) and t >= 0 else TIMEOUT for t in series]
 
-    mean = int(round(1000 *numpy.mean(times or [60]), 6))
+    mean = int(round(1000 * numpy.mean(times or [60]), 6))
     first = int(round(1000 * numpy.quantile(times_with_timeout, 0.5), 6))
     third = int(round(1000 * numpy.std(times), 6))
 
@@ -575,11 +579,13 @@ def print_table_two(df):
     ]
 
     table = to_table(df, 'op', stats_no_to, limit_tools=['mata', 'awali', 'vata', 'mona', 'automata.net'], val_size=3, valid_values=valid_values)
-    print(table)
+    printable_table = to_table(df, 'op', stats_no_to, limit_tools=['mata', 'awali', 'vata', 'mona', 'automata.net'], val_size=3, valid_values=valid_values, tablefmt='plain')
+    print(printable_table)
     save_table(table, "stats-per-op-1.tex")
     print()
     table = to_table(df, 'op', stats_no_to, limit_tools=['mata', 'brics', 'automatalib', 'fado', 'automata.py'], val_size=3, valid_values=valid_values)
-    print(table)
+    printable_table = to_table(df, 'op', stats_no_to, limit_tools=['mata', 'brics', 'automatalib', 'fado', 'automata.py'], val_size=3, valid_values=valid_values, tablefmt='plain')
+    print(printable_table)
     save_table(table, "stats-per-op-2.tex")
 
 
@@ -590,11 +596,12 @@ def print_table_two(df):
 
 def print_table_first(df):
     table = to_table(df[df['op'] == 'fairest-of-them-all'], 'bench', stats_with_to, limit_tools=['mata', 'awali', 'vata', 'mona', 'automata.net'], val_size=4, valid_values=None)
-    print(table)
+    printable_table = to_table(df[df['op'] == 'fairest-of-them-all'], 'bench', stats_with_to, limit_tools=['mata', 'awali', 'vata', 'mona', 'automata.net'], val_size=4, valid_values=None, tablefmt='plain')
+    print(printable_table)
     save_table(table, "stats-per-bench-1.tex")
     print()
-    table = to_table(df[df['op'] == 'fairest-of-them-all'], 'bench', stats_with_to, limit_tools=['mata', 'brics', 'automatalib', 'fado', 'automata.py'], val_size=4, valid_values=None)
-    print(table)
+    printable_table= to_table(df[df['op'] == 'fairest-of-them-all'], 'bench', stats_with_to, limit_tools=['mata', 'brics', 'automatalib', 'fado', 'automata.py'], val_size=4, valid_values=None, tablefmt='plain')
+    print(printable_table)
     save_table(table, "stats-per-bench-2.tex")
     print()
 
@@ -627,7 +634,7 @@ def compute_relative(mata_d, other_d):
     return round(other_sum / mata_sum, 2) if mata_sum != 0 else '-'
 
 
-def to_relative_table(df, rows, aggregation):
+def to_relative_table(df, rows, aggregation, tablefmt='latex'):
     tools = ['mata', 'mata-0.111', 'mata-0.112', 'mata-0.113', 'mata-old', 'mata-sim', 'awali', 'mona', 'vata',  'automata.net', 'brics', 'automatalib-old', 'automatalib', 'fado', 'automata.py', '(py)mata']
     tools = [t for t in tools if t in set(df['tool'])]
     data = {
@@ -643,30 +650,40 @@ def to_relative_table(df, rows, aggregation):
             '-' if val == '-' else f"{compute_relative(vals[1], val)}" for val in vals[1:]
         ]        
     return tabulate.tabulate(
-        sorted(data.values()), headers=[rows] + tools, tablefmt='latex'
+        sorted(data.values()), headers=[rows] + tools, tablefmt=tablefmt
     )
 
 
 def print_table_three(df):
-    with_to = True
     cut = df[df['op'] == 'fairest-of-them-all']
     table = to_relative_table(cut, 'bench', relative_stats)
-    print(table)
+    printable_table = to_relative_table(cut, 'bench', relative_stats, tablefmt='plain')
+    print(printable_table)
     print()
     save_table(table, "stats-relative.tex")
 
 
 if __name__ == "__main__":
-    # Create Pandas dataframe
-    df = to_pandas(DATA_SOURCE)
-    df = compute_fair_overall(df)
+    for src in sys.argv:
+        if os.path.isdir(src):
+            print(f"Processing: {src}")
+            CONFIG['src'] = src
+            # Create Pandas dataframe
+            df = to_pandas(src)
+            print(" - Computing fair overall times")
+            df = compute_fair_overall(df)
 
-    # Generate figures
-    generate_figure_four(df)
-    generate_figure_five(df)
+            # Generate figures
+            print(" - Generating Figure IV.")
+            generate_figure_four(df)
+            print(" - Generating Figure V.")
+            generate_figure_five(df)
 
-    # Generate tables
-    print_table_first(df)
-    print_table_two(df)
-    print_table_three(df)
+            # Generate tables
+            print(" - Generating Table I.")
+            print_table_first(df)
+            print(" - Generating Table II.")
+            print_table_two(df)
+            print(" - Generating Table III.")
+            print_table_three(df)
 
